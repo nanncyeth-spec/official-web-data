@@ -1,0 +1,53 @@
+{
+    "quickStartDocs" : [
+        {
+          "title": "Getting started",
+          "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+          "link": "/docs/introduction",
+          "img": "/static/file.png"
+        },
+        {
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          },{
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          },{
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          }
+      ],
+       "navigateDocs" : [
+        {
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          },
+          {
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          },
+          {
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          },
+          {
+            "title": "Getting started",
+            "description": "Bridge into Scroll and explore our dApp Ecosystem.",
+            "link": "/docs/introduction",
+            "img": "/static/file.png"
+          }
+                
+      ]
+}

@@ -1,0 +1,24 @@
+{
+  "kit": [
+    {
+      "index": 1,
+      "svg": "/static/brand-kit.svg",
+      "png": "/static/brand-kit.png"
+    },
+    {
+      "index": 2,
+       "svg": "/static/brand-kit.svg",
+      "png": "/static/brand-kit.png"
+    },
+    {
+      "index": 3,
+       "svg": "/static/brand-kit.svg",
+      "png": "/static/brand-kit.png"
+    },
+    {
+      "index": 4,
+       "svg": "/static/brand-kit.svg",
+      "png": "/static/brand-kit.png"
+    }
+  ]
+}

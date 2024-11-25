@@ -1,0 +1,502 @@
+{
+    "ecosystemCategorys": [
+        "Tools",
+        "Gaming",
+        "DeFi",
+        "Infra",
+        "Layer1",
+        "Wallet",
+        "Social",
+        "Incubator",
+        "NFT",
+        "DePIN",
+        "Data & Analysis",
+        "Knowledge Graph",
+        "LSD",
+        "Restaking",
+        "Derivatives",
+        "Layer2",
+        "ZK",
+        "Launchpad",
+        "Community Platform",
+        "Hardware wallet",
+        "Metaverse",
+        "Perp",
+        "Digital Art",
+        "NFT Marketplace",
+        "Intent",
+        "AI"
+    ],
+    "stats": [
+        {
+            "title": "Total value secured",
+            "value": "1.2",
+            "suffix": "B"
+        },
+        {
+            "title": "Transaction count",
+            "value": "1.2",
+            "suffix": "M"
+        },
+        {
+            "title": "Security score",
+            "value": "99.9",
+            "suffix": "%"
+        }
+    ],
+    "highlights": [
+        {
+            "title": "RootData",
+            "img": "/static/ecosystem/highlights/1.png",
+            "link": "https://www.rootdata.com/",
+            "categorys": [
+                "Tools",
+                "Data & Analysis",
+                "Knowledge Graph"
+            ],
+            "desc": "RootData is a Web3 asset data platform that pioneers in encapsulating both on-chain and off-chain data of Web3 assets, boasting higher data structuration and readability."
+        },
+        {
+            "title": "RootData",
+            "img": "/static/ecosystem/highlights/2.png",
+            "link": "https://www.matr1x.io/",
+            "categorys": [
+                "Gaming"
+            ],
+            "desc": "Matr1x is the brand of Metaverse, planning to build the brand through high-quality games developed by themselves or in collaboration with third parties, game IP development and cooperation, and global Esports tournaments"
+        },
+        {
+            "title": "RootData",
+            "img": "/static/ecosystem/highlights/3.png",
+            "link": "https://www.trustalabs.ai/",
+            "categorys": [
+                "Tools",
+                "Data & Analysis"
+            ],
+            "desc": "Trusta Labs focuses on Web3 security infrastructure, aiming to bring more valuable users to the Web3 world."
+        },
+        {
+            "title": "RootData",
+            "img": "/static/ecosystem/highlights/3.png",
+            "link": "https://www.trustalabs.ai/",
+            "categorys": [
+                "Tools",
+                "Data & Analysis"
+            ],
+            "desc": "Trusta Labs focuses on Web3 security infrastructure, aiming to bring more valuable users to the Web3 world."
+        }
+    ],
+    "projects": [
+        {
+            "index": 1,
+            "title": "RootData",
+            "logo": "/static/ecosystem/e_1.png",
+            "link": "https://www.rootdata.com/",
+            "categorys": [
+                "Tools",
+                "Data & Analysis",
+                "Knowledge Graph"
+            ],
+            "desc": "RootData is a Web3 asset data platform that pioneers in encapsulating both on-chain and off-chain data of Web3 assets, boasting higher data structuration and readability."
+        },
+        {
+            "index": 2,
+            "title": "Matr1x",
+            "logo": "/static/ecosystem/e_2.png",
+            "link": "https://www.matr1x.io/",
+            "categorys": [
+                "Gaming"
+            ],
+            "desc": "Matr1x is the brand of Metaverse, planning to build the brand through high-quality games developed by themselves or in collaboration with third parties, game IP development and cooperation, and global Esports tournaments"
+        },
+        {
+            "index": 3,
+            "title": "Trusta Labs",
+            "logo": "/static/ecosystem/e_3.png",
+            "link": "https://www.trustalabs.ai/",
+            "categorys": [
+                "Tools",
+                "Data & Analysis"
+            ],
+            "desc": "Trusta Labs focuses on Web3 security infrastructure, aiming to bring more valuable users to the Web3 world."
+        },
+        {
+            "index": 4,
+            "title": "Holdstation",
+            "logo": "/static/ecosystem/e_4.png",
+            "link": "https://holdstation.exchange/",
+            "categorys": [
+                "DeFi",
+                "Derivatives"
+            ],
+            "desc": "Holdstation is a zksync-based account abstraction solution whose trading platform provides traders with the opportunity to trade multiple assets with up to 500x leverage.a"
+        },
+        {
+            "index": 5,
+            "title": "Polyhedra",
+            "logo": "/static/ecosystem/e_5.png",
+            "link": "https://www.polyhedra.network/",
+            "categorys": [
+                "Infra",
+                "ZK"
+            ],
+            "desc": "PolyHedra is an infrastructure for Web3 Interoperability, featuring cutting-edge zero-knowledge proof systems."
+        },
+        {
+            "index": 6,
+            "title": "Kaia",
+            "logo": "/static/ecosystem/e_6.png",
+            "link": "https://klaytn.foundation/",
+            "categorys": [
+                "Infra",
+                "Layer1"
+            ],
+            "desc": "Klaytn is a highly optimized, BFT-based public blockchain that aims to provide enterprise-grade reliability."
+        },
+        {
+            "index": 7,
+            "title": "TonUP",
+            "logo": "/static/ecosystem/e_7.png",
+            "link": "https://tonup.io/",
+            "categorys": [
+                "DeFi",
+                "Launchpad"
+            ],
+            "desc": "TonUP is a Launchpad on TON. TonUp aims to identify and support groundbreaking projects in the crypto space."
+        },
+        {
+            "index": 8,
+            "title": "imToken",
+            "categorys": [
+                "Infra",
+                "Wallet"
+            ],
+            "logo": "/static/ecosystem/e_8.png",
+            "desc": "imToken is a decentralized digital wallet used to manage and safeguard a wide range of blockchain- and token-based assets, identities, and data.",
+            "link": "https://token.im/"
+        },
+        {
+            "index": 9,
+            "title": "Yuliverse",
+            "categorys": [
+                "Gaming"
+            ],
+            "logo": "/static/ecosystem/e_9.png",
+            "desc": "Yuliverse is an alternative reality metaverse that is parallel to the real world, bringing players a new lifestyle.",
+            "link": "https://www.yuliverse.com/"
+        },
+        {
+            "index": 10,
+            "title": "DeBox",
+            "categorys": [
+                "Social",
+                "Community Platform"
+            ],
+            "logo": "/static/ecosystem/e_10.png",
+            "desc": "DeBox is a DID-based Web3 community management tool. Users holding ERC-20 tokens and NFTs can join the corresponding groups without permission, and can use the lottery, proposal, voting, and other functions provided by the product.",
+            "link": "https://debox.pro/"
+        },
+        {
+            "index": 11,
+            "title": "Stakestone",
+            "categorys": [
+                "LSD",
+                "DeFi"
+            ],
+            "logo": "/static/ecosystem/e_11.png",
+            "desc": "StakeStone, a liquidity staking derivatives basket(LSDb) token backed by ETH staking yield , integrates the mainstream staking pools, Re-Stake, and LSD’s blue-chip DeFi strategy yield to provide a new highly adaptable staking yield-bearing underlying asset for all protocols requiring LSDs liquidity.",
+            "link": "https://onekey.so/"
+        },
+        {
+            "index": 12,
+            "title": "Onekey",
+            "categorys": [
+                "Wallet",
+                "Infra",
+                "Hardware wallet"
+            ],
+            "logo": "/static/ecosystem/e_12.png",
+            "desc": "OneKey is an open-source cryptocurrency wallet that allows users to securely and conveniently store and use their crypto assets.",
+            "link": "OneKey: Hardware Wallet & Crypto DeFi Wallet | Crypto Security"
+        },
+        {
+            "index": 13,
+            "title": "BlockBooster",
+            "categorys": [
+                "Incubator"
+            ],
+            "logo": "/static/ecosystem/e_13.png",
+            "desc": "BlockBooster is a Hong Kong-based Venture Studio centered in Asia, facilitating the development of next-generation protocols and software infrastructure in Web3.",
+            "link": "https://www.blockbooster.io/"
+        },
+        {
+            "index": 14,
+            "title": "Cellula",
+            "categorys": [
+                "Gaming"
+            ],
+            "logo": "/static/ecosystem/e_14.png",
+            "desc": "Cellula is a full-chain AI game ecosystem that integrates game theory to provide players with composability and persistence.",
+            "link": "https://www.cellula.life/"
+        },
+        {
+            "index": 15,
+            "title": "Canza Finance",
+            "categorys": [
+                "DeFi"
+            ],
+            "logo": "/static/ecosystem/e_15.png",
+            "desc": "Canza is building the world's largest non-institutional-based financial system using decentralized finance (DeFi) and a strong network of experienced local money market players to provide financial and transaction services to the public",
+            "link": "https://canza.io/"
+        },
+        {
+            "index": 16,
+            "title": "SynFutures",
+            "categorys": [
+                "DeFi",
+                "Derivatives",
+                "Perp"
+            ],
+            "logo": "/static/ecosystem/e_16.png",
+            "desc": "SynFutures is a decentralized derivatives exchange that enables anyone to list and trade futures and perps on any asset.",
+            "link": "https://www.synfutures.com/"
+        },
+        {
+            "index": 17,
+            "title": "Sign Protocol",
+            "categorys": [
+                "Infra"
+            ],
+            "logo": "/static/ecosystem/e_17.png",
+            "desc": "Sign Protocol is an omni-chain attestation protocol, enabling users to freely attest and verify any information on-chain.",
+            "link": "https://sign.global/"
+        },
+        {
+            "index": 18,
+            "title": "Skate",
+            "categorys": [
+                "Infra"
+            ],
+            "logo": "/static/ecosystem/e_18.png",
+            "desc": "Skate is the universal application layer that empowers applications to run on 1000s of chains with a single state. ",
+            "link": "https://www.skatechain.org/"
+        },
+        {
+            "index": 19,
+            "title": "B² Network",
+            "categorys": [
+                "Infra",
+                "Layer2"
+            ],
+            "logo": "/static/ecosystem/e_19.png",
+            "desc": "B² Network is a EVM-compatible Rollup based on zero-knowledge proof verification commitment on Bitcoin.",
+            "link": "https://www.bsquared.network/"
+        },
+        {
+            "index": 20,
+            "title": "LiveArt",
+            "categorys": [
+                "NFT",
+                "Digital Art",
+                "NFT marketplace"
+            ],
+            "logo": "/static/ecosystem/e_20.png",
+            "desc": "LiveArt is a premium NFT platform that connects the art world with Web3. Built by art industry leaders, it brings creators, collaborators, and collectors into the metaverse with unique technology.",
+            "link": "https://liveart.xyz"
+        },
+        {
+            "index": 21,
+            "title": "Age of Dino",
+            "categorys": [
+                "Gaming"
+            ],
+            "logo": "/static/ecosystem/e_21.png",
+            "desc": "Age of Dino (AOD) is a next-generation Massively Multiplayer Online (MMO) strategy game built on the Xterio Foundation platform. Set within an enthraling metaverse, AOD offers a captivating journey that encompasses both SLG (SimulationGame) and RPG (Role-Playing Game) elements.",
+            "link": "https://www.ageofdino.com/"
+        },
+        {
+            "index": 22,
+            "title": "Space Nation",
+            "categorys": [
+                "Gaming"
+            ],
+            "logo": "/static/ecosystem/e_22.png",
+            "desc": "Space Nation is a Web3 Space Opera MMORPG. User will commence a universe voyage, interact with formidable pirates, factions of the own race, and various enigmatic alien species.",
+            "link": "https://spacenation.online/"
+        },
+        {
+            "index": 23,
+            "title": "Mind Network",
+            "categorys": [
+                "DeFi",
+                "Restaking",
+                "FHE",
+                "AI"
+            ],
+            "logo": "/static/ecosystem/e_23.png",
+            "desc": "Mind Network is a FHE Restaking Layer for POS and AI Networks. Its framework operates as an FHE validation network, bringing secure computation and consensus to AI, DePIN, EigenLayer AVS, Bittensor Subnet, and many critical POS networks.",
+            "link": "https://mindnetwork.xyz"
+        },
+        {
+            "index": 24,
+            "title": "StarryNift",
+            "categorys": [
+                "Social",
+                "Metaverse",
+                "AI"
+            ],
+            "logo": "/static/ecosystem/e_24.png",
+            "desc": "StarryNift is a co-creation metaverse platform enhanced by AI, delivering an immersive 3D virtual experience for playing, creating, and socializing. ",
+            "link": "https://starrynift.art/"
+        },
+        {
+            "index": 25,
+            "title": "DeepLink",
+            "categorys": [
+                "Infra",
+                "Gaming Solutions"
+            ],
+            "logo": "/static/ecosystem/e_25.png",
+            "desc": "DeepLink is a Web3 Cloud Gaming Platform with a remote control tool as the entrance. Integrating artificial intelligence, blockchain and streaming technology, It solves the trust problem through blockchain technology, allowing any player anywhere in the world to share or rent a personal gaming PC at any time.",
+            "link": "https://www.deeplink.cloud/"
+        },
+        {
+            "index": 26,
+            "title": "KiloEx",
+            "categorys": [
+                "DeFi",
+                "Derivatives",
+                "Perp"
+            ],
+            "logo": "/static/ecosystem/e_26.png",
+            "desc": "KiloEx is a user-friendly decentralized exchange focused on risk management and capital efficiency.",
+            "link": "https://www.kiloex.io/"
+        },
+        {
+            "index": 27,
+            "title": "REVOX",
+            "categorys": [
+                "Infra",
+                "AI"
+            ],
+            "logo": "/static/ecosystem/e_27.png",
+            "desc": "REVOX empowers developers, organizations, and individuals by offering an extensive suite of component APIs and diverse data sources.",
+            "link": "https://www.revox.ai/"
+        },
+        {
+            "index": 28,
+            "title": "TypoX",
+            "categorys": [
+                "Tools",
+                "AI"
+            ],
+            "logo": "/static/ecosystem/e_28.png",
+            "desc": "TypoX is a ChatGPT-style conversational platform that making Web3 knowledges & data & d/Apps accessible to all.",
+            "link": "https://typox.ai"
+        },
+        {
+            "index": 29,
+            "title": "Bitlayer",
+            "categorys": [
+                "Infra",
+                "Layer2"
+            ],
+            "logo": "/static/ecosystem/e_29.png",
+            "desc": "Bitlayer is a Layer 2 solution offering Bitcoin-equivalent security and Turing completeness. It's also the first built on BitVM.",
+            "link": "https://bitlayer.org"
+        },
+        {
+            "index": 30,
+            "title": "Burrito Wallet",
+            "categorys": [
+                "Wallet",
+                "Infra"
+            ],
+            "logo": "/static/ecosystem/e_30.png",
+            "desc": "Rotonda, a Web3 wallet-focused subsidiary launched by cryptocurrency exchange Bithumb, will launch Burrito Wallet, a user-friendly Web3 wallet service connecting users to DEXes, DeFi platforms, NFT marketplaces, and various dApps.",
+            "link": "https://www.burritowallet.com/"
+        },
+        {
+            "index": 31,
+            "title": "GM Network",
+            "categorys": [
+                "DePIN",
+                "AI",
+                "Layer2",
+                "Infra"
+            ],
+            "logo": "/static/ecosystem/e_31.png",
+            "desc": "GM Network is a modular L2 with a strategic focus on establishing a closed-loop ecosystem by integrating DePIN+AI, thereby constructing a comprehensive closed-loop system spanning Chain+ID+App.",
+            "link": "https://gmnetwork.ai/"
+        },
+        {
+            "index": 32,
+            "title": "Puffer Finance",
+            "categorys": [
+                "DeFi",
+                "LSD",
+                "Restaking"
+            ],
+            "logo": "/static/ecosystem/e_32.png",
+            "desc": "Puffer is a decentralized native Liquid Restaking Protocol (nLRP) built on EigenLayer. It introduces native Liquid Restaking Tokens (nLRTs) that accrue PoS and restaking rewards.",
+            "link": "https://www.puffer.fi/"
+        },
+        {
+            "index": 33,
+            "title": "Carv",
+            "categorys": [
+                "Infra",
+                "AI",
+                "Gaming Solutions"
+            ],
+            "logo": "/static/ecosystem/e_33.png",
+            "desc": "CARV is a modular data layer for gaming, AI, and ∞, revolutionizing how data is used and shared. To pioneer a future where data generates value for all, CARV has built CARV Protocol, the modular data layer integrated with 40+ chain ecosystems, and CARV Play, its flagship gaming and superapp.",
+            "link": "https://carv.io/"
+        },
+        {
+            "index": 34,
+            "title": "DappOS",
+            "categorys": [
+                "Infra",
+                "Intent"
+            ],
+            "logo": "/static/ecosystem/e_34.png",
+            "desc": "DappOS is an intent execution network for value-specific tasks that empowers chains and dApps to be intent-centric. It turns intents into on-chain outcomes by creating a two-sided marketplace: On the supply side, service providers stake collateral and opt into running one or more execution services. And on the demand side, it enables developers to find solutions to fulfill users’ intents.",
+            "link": "https://dappos.com/"
+        },
+        {
+            "index": 35,
+            "title": "TokenPocket",
+            "categorys": [
+                "Infra",
+                "Wallet"
+            ],
+            "logo": "/static/ecosystem/e_35.png",
+            "desc": "TokenPocket is a multi-chain decentralized wallet, it provides users with mobile wallet, extension wallet and hardware wallet, supporting public chains including Bitcoin, Ethereum, BNB Smart Chain, TRON, Aptos, Polygon, Solana, Polkadot, EOS and all EVM compatible chains. Serving over 20 millions users from more than 200 countries and regions. It is a world-wide leading crypto wallet that trusted by global users.",
+            "link": "https://www.tokenpocket.pro/"
+        },
+        {
+            "index": 36,
+            "title": "Bido",
+            "categorys": [
+                "DeFi",
+                "LSD"
+            ],
+            "logo": "/static/ecosystem/e_36.png",
+            "desc": "Bido is a liquid-staking protocol for BTC on the BEVM network, developed akin to Ethereum's Lido. It enables users to earn digital token rewards while keeping their tokens liquid for use in various DeFi applications, supporting activities like collateral, lending, and farming.",
+            "link": "https://app.bido.finance/"
+        },
+        {
+            "index": 37,
+            "title": "Scroll",
+            "categorys": [
+                "Infra",
+                "Layer2",
+                "ZK"
+            ],
+            "logo": "/static/ecosystem/e_37.png",
+            "desc": "Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools. It processes transactions off-chain and posts succinct proofs of correctness on-chain, resulting in higher throughput and lower costs compared to the Ethereum base layer.",
+            "link": "https://scroll.io/"
+        }
+    ]
+}
