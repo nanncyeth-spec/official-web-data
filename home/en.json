@@ -1,152 +1,181 @@
 {
-  "gettingStartedList" : [
-    { 
-      "link":"https://google.com",
-      "icon": "<svg width=\"68\" height=\"68\" viewBox=\"0 0 68 68\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect opacity=\"0.2\" width=\"68\" height=\"68\" rx=\"34\" fill=\"#D1D1D6\"/><path d=\"M38.7525 29.6131H38.7671M38.7525 38.3873C43.5983 38.3873 47.5267 34.4589 47.5267 29.6131C47.5267 24.7672 43.5983 20.8389 38.7525 20.8389C33.9066 20.8389 29.9783 24.7672 29.9783 29.6131C29.9783 30.0133 30.0051 30.4072 30.057 30.7932C30.1423 31.4281 30.185 31.7456 30.1563 31.9464C30.1264 32.1556 30.0883 32.2683 29.9852 32.4528C29.8862 32.6299 29.7117 32.8044 29.3628 33.1533L21.8894 40.6267C21.6365 40.8796 21.51 41.0061 21.4196 41.1536C21.3394 41.2845 21.2803 41.4271 21.2445 41.5763C21.2041 41.7446 21.2041 41.9235 21.2041 42.2812V44.8217C21.2041 45.6407 21.2041 46.0502 21.3635 46.363C21.5037 46.6381 21.7274 46.8619 22.0026 47.0021C22.3154 47.1614 22.7249 47.1614 23.5439 47.1614H26.0844C26.4421 47.1614 26.6209 47.1614 26.7892 47.121C26.9384 47.0852 27.0811 47.0261 27.2119 46.946C27.3595 46.8555 27.486 46.7291 27.7389 46.4761L35.2123 39.0027C35.5612 38.6538 35.7356 38.4794 35.9127 38.3804C36.0972 38.2773 36.2099 38.2392 36.4192 38.2093C36.62 38.1805 36.9374 38.2232 37.5723 38.3086C37.9583 38.3605 38.3523 38.3873 38.7525 38.3873Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
-      "title": "Set up your keys",
-      "desc": "Generate and manage your encryption keys using our secure key management system. Follow our setup guide for a complete walkthrough"
+  "buttonList": [
+    {
+      "link": "/docs",
+      "title": "Start Building"
     },
     {
-      "link":"https://google.com",
-      "icon": "<svg width=\"68\" height=\"68\" viewBox=\"0 0 68 68\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M33.6347 22.3012H34.2699C38.7261 22.3012 40.9542 22.3012 41.8 23.1015C42.5311 23.7933 42.8551 24.8125 42.6577 25.7994C42.4293 26.9413 40.6103 28.2279 36.9722 30.8012L31.0283 35.0054C27.3902 37.5787 25.5712 38.8654 25.3428 40.0072C25.1454 40.9942 25.4694 42.0133 26.2005 42.7051C27.0463 43.5055 29.2744 43.5055 33.7306 43.5055H35.097M28.5164 22.3012C28.5164 24.7241 26.5522 26.6883 24.1293 26.6883C21.7064 26.6883 19.7422 24.7241 19.7422 22.3012C19.7422 19.8782 21.7064 17.9141 24.1293 17.9141C26.5522 17.9141 28.5164 19.8782 28.5164 22.3012ZM48.9895 42.7743C48.9895 45.1972 47.0253 47.1614 44.6024 47.1614C42.1795 47.1614 40.2153 45.1972 40.2153 42.7743C40.2153 40.3513 42.1795 38.3872 44.6024 38.3872C47.0253 38.3872 48.9895 40.3513 48.9895 42.7743Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect opacity=\"0.2\" width=\"68\" height=\"68\" rx=\"34\" fill=\"#D1D1D6\"/></svg>",
-      "title": "Connect your system",
-      "desc": "Integrate HashKey with your existing infrastructure using our APls andSDKs. Simple configuration gets you up and running quickly"
+      "link": "/docs",
+      "title": "Earn Rewards"
     },
     {
-      "link":"https://google.com",
-   "icon": "<svg width=\"68\" height=\"68\" viewBox=\"0 0 68 68\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30.5567 44.4137L31.4114 46.3359C31.6654 46.908 32.0801 47.3942 32.605 47.7354C33.1299 48.0766 33.7425 48.2582 34.3686 48.2581C34.9947 48.2582 35.6073 48.0766 36.1322 47.7354C36.6571 47.3942 37.0718 46.908 37.3258 46.3359L38.1805 44.4137C38.4847 43.7316 38.9965 43.163 39.6429 42.7888C40.2933 42.4136 41.0458 42.2538 41.7925 42.3322L43.8837 42.5548C44.5062 42.6207 45.1344 42.5045 45.6922 42.2204C46.25 41.9363 46.7134 41.4965 47.0262 40.9543C47.3394 40.4125 47.4886 39.7914 47.4557 39.1664C47.4229 38.5413 47.2093 37.9393 46.841 37.4333L45.6028 35.7321C45.162 35.1218 44.9264 34.3872 44.9301 33.6344C44.93 32.8836 45.1678 32.1521 45.6093 31.5448L46.8475 29.8436C47.2158 29.3376 47.4294 28.7356 47.4622 28.1106C47.4951 27.4856 47.3459 26.8644 47.0327 26.3226C46.7199 25.7804 46.2565 25.3406 45.6987 25.0565C45.1409 24.7724 44.5127 24.6562 43.8902 24.7221L41.799 24.9447C41.0523 25.0231 40.2998 24.8633 39.6494 24.4881C39.0017 24.1118 38.4898 23.5402 38.187 22.8551L37.3258 20.9329C37.0718 20.3608 36.6571 19.8746 36.1322 19.5334C35.6073 19.1922 34.9947 19.0106 34.3686 19.0107C33.7425 19.0106 33.1299 19.1922 32.605 19.5334C32.0801 19.8746 31.6654 20.3608 31.4114 20.9329L30.5567 22.8551C30.2539 23.5402 29.742 24.1118 29.0943 24.4881C28.4439 24.8633 27.6914 25.0231 26.9447 24.9447L24.847 24.7221C24.2245 24.6562 23.5963 24.7724 23.0385 25.0565C22.4807 25.3406 22.0173 25.7804 21.7045 26.3226C21.3913 26.8644 21.2421 27.4856 21.275 28.1106C21.3079 28.7356 21.5214 29.3376 21.8898 29.8436L23.1279 31.5448C23.5694 32.1521 23.8072 32.8836 23.8071 33.6344C23.8072 34.3852 23.5694 35.1167 23.1279 35.724L21.8898 37.4252C21.5214 37.9312 21.3079 38.5332 21.275 39.1582C21.2421 39.7832 21.3913 40.4044 21.7045 40.9462C22.0176 41.4881 22.4811 41.9277 23.0388 42.2117C23.5965 42.4958 24.2245 42.6121 24.847 42.5467L26.9382 42.3241C27.6849 42.2457 28.4374 42.4055 29.0878 42.7807C29.7379 43.1559 30.2522 43.7276 30.5567 44.4137Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M34.366 38.0215C36.7889 38.0215 38.7531 36.0573 38.7531 33.6344C38.7531 31.2115 36.7889 29.2473 34.366 29.2473C31.9431 29.2473 29.9789 31.2115 29.9789 33.6344C29.9789 36.0573 31.9431 38.0215 34.366 38.0215Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect opacity=\"0.2\" width=\"68\" height=\"68\" rx=\"34\" fill=\"#D1D1D6\"/></svg>",
-       "title": "Configure your settings",
-      "desc": "Customize your security settings and policies using our intuitive dashboard. Start protecting your data with industry-leading tools."
+      "link": "/docs",
+      "title": "Learn More"
     }
   ],
-  "beginYourJourneyList" : [
-    {
-      "link":"https://google.com",
+  "gettingStarted": {
+    "title": "Getting Started",
+    "titile2": "with  HashKey",
+    "btnTitle": "Start Building",
+    "btnLink": "/docs",
+    "introduction": "HashKey provides enterprise-grade security solutions with seamless integration, meaning everything works right out of the box.",
+    "list": [
+      {
+        "link": "https://google.com",
+        "icon": "<svg width=\"68\" height=\"68\" viewBox=\"0 0 68 68\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect opacity=\"0.2\" width=\"68\" height=\"68\" rx=\"34\" fill=\"#D1D1D6\"/><path d=\"M38.7525 29.6131H38.7671M38.7525 38.3873C43.5983 38.3873 47.5267 34.4589 47.5267 29.6131C47.5267 24.7672 43.5983 20.8389 38.7525 20.8389C33.9066 20.8389 29.9783 24.7672 29.9783 29.6131C29.9783 30.0133 30.0051 30.4072 30.057 30.7932C30.1423 31.4281 30.185 31.7456 30.1563 31.9464C30.1264 32.1556 30.0883 32.2683 29.9852 32.4528C29.8862 32.6299 29.7117 32.8044 29.3628 33.1533L21.8894 40.6267C21.6365 40.8796 21.51 41.0061 21.4196 41.1536C21.3394 41.2845 21.2803 41.4271 21.2445 41.5763C21.2041 41.7446 21.2041 41.9235 21.2041 42.2812V44.8217C21.2041 45.6407 21.2041 46.0502 21.3635 46.363C21.5037 46.6381 21.7274 46.8619 22.0026 47.0021C22.3154 47.1614 22.7249 47.1614 23.5439 47.1614H26.0844C26.4421 47.1614 26.6209 47.1614 26.7892 47.121C26.9384 47.0852 27.0811 47.0261 27.2119 46.946C27.3595 46.8555 27.486 46.7291 27.7389 46.4761L35.2123 39.0027C35.5612 38.6538 35.7356 38.4794 35.9127 38.3804C36.0972 38.2773 36.2099 38.2392 36.4192 38.2093C36.62 38.1805 36.9374 38.2232 37.5723 38.3086C37.9583 38.3605 38.3523 38.3873 38.7525 38.3873Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+        "title": "Set up your keys",
+        "desc": "Generate and manage your encryption keys using our secure key management system. Follow our setup guide for a complete walkthrough"
+      },
+      {
+        "link": "https://google.com",
+        "icon": "<svg width=\"68\" height=\"68\" viewBox=\"0 0 68 68\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M33.6347 22.3012H34.2699C38.7261 22.3012 40.9542 22.3012 41.8 23.1015C42.5311 23.7933 42.8551 24.8125 42.6577 25.7994C42.4293 26.9413 40.6103 28.2279 36.9722 30.8012L31.0283 35.0054C27.3902 37.5787 25.5712 38.8654 25.3428 40.0072C25.1454 40.9942 25.4694 42.0133 26.2005 42.7051C27.0463 43.5055 29.2744 43.5055 33.7306 43.5055H35.097M28.5164 22.3012C28.5164 24.7241 26.5522 26.6883 24.1293 26.6883C21.7064 26.6883 19.7422 24.7241 19.7422 22.3012C19.7422 19.8782 21.7064 17.9141 24.1293 17.9141C26.5522 17.9141 28.5164 19.8782 28.5164 22.3012ZM48.9895 42.7743C48.9895 45.1972 47.0253 47.1614 44.6024 47.1614C42.1795 47.1614 40.2153 45.1972 40.2153 42.7743C40.2153 40.3513 42.1795 38.3872 44.6024 38.3872C47.0253 38.3872 48.9895 40.3513 48.9895 42.7743Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect opacity=\"0.2\" width=\"68\" height=\"68\" rx=\"34\" fill=\"#D1D1D6\"/></svg>",
+        "title": "Connect your system",
+        "desc": "Integrate HashKey with your existing infrastructure using our APls andSDKs. Simple configuration gets you up and running quickly"
+      },
+      {
+        "link": "https://google.com",
+        "icon": "<svg width=\"68\" height=\"68\" viewBox=\"0 0 68 68\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30.5567 44.4137L31.4114 46.3359C31.6654 46.908 32.0801 47.3942 32.605 47.7354C33.1299 48.0766 33.7425 48.2582 34.3686 48.2581C34.9947 48.2582 35.6073 48.0766 36.1322 47.7354C36.6571 47.3942 37.0718 46.908 37.3258 46.3359L38.1805 44.4137C38.4847 43.7316 38.9965 43.163 39.6429 42.7888C40.2933 42.4136 41.0458 42.2538 41.7925 42.3322L43.8837 42.5548C44.5062 42.6207 45.1344 42.5045 45.6922 42.2204C46.25 41.9363 46.7134 41.4965 47.0262 40.9543C47.3394 40.4125 47.4886 39.7914 47.4557 39.1664C47.4229 38.5413 47.2093 37.9393 46.841 37.4333L45.6028 35.7321C45.162 35.1218 44.9264 34.3872 44.9301 33.6344C44.93 32.8836 45.1678 32.1521 45.6093 31.5448L46.8475 29.8436C47.2158 29.3376 47.4294 28.7356 47.4622 28.1106C47.4951 27.4856 47.3459 26.8644 47.0327 26.3226C46.7199 25.7804 46.2565 25.3406 45.6987 25.0565C45.1409 24.7724 44.5127 24.6562 43.8902 24.7221L41.799 24.9447C41.0523 25.0231 40.2998 24.8633 39.6494 24.4881C39.0017 24.1118 38.4898 23.5402 38.187 22.8551L37.3258 20.9329C37.0718 20.3608 36.6571 19.8746 36.1322 19.5334C35.6073 19.1922 34.9947 19.0106 34.3686 19.0107C33.7425 19.0106 33.1299 19.1922 32.605 19.5334C32.0801 19.8746 31.6654 20.3608 31.4114 20.9329L30.5567 22.8551C30.2539 23.5402 29.742 24.1118 29.0943 24.4881C28.4439 24.8633 27.6914 25.0231 26.9447 24.9447L24.847 24.7221C24.2245 24.6562 23.5963 24.7724 23.0385 25.0565C22.4807 25.3406 22.0173 25.7804 21.7045 26.3226C21.3913 26.8644 21.2421 27.4856 21.275 28.1106C21.3079 28.7356 21.5214 29.3376 21.8898 29.8436L23.1279 31.5448C23.5694 32.1521 23.8072 32.8836 23.8071 33.6344C23.8072 34.3852 23.5694 35.1167 23.1279 35.724L21.8898 37.4252C21.5214 37.9312 21.3079 38.5332 21.275 39.1582C21.2421 39.7832 21.3913 40.4044 21.7045 40.9462C22.0176 41.4881 22.4811 41.9277 23.0388 42.2117C23.5965 42.4958 24.2245 42.6121 24.847 42.5467L26.9382 42.3241C27.6849 42.2457 28.4374 42.4055 29.0878 42.7807C29.7379 43.1559 30.2522 43.7276 30.5567 44.4137Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M34.366 38.0215C36.7889 38.0215 38.7531 36.0573 38.7531 33.6344C38.7531 31.2115 36.7889 29.2473 34.366 29.2473C31.9431 29.2473 29.9789 31.2115 29.9789 33.6344C29.9789 36.0573 31.9431 38.0215 34.366 38.0215Z\" stroke=\"black\" stroke-width=\"3.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect opacity=\"0.2\" width=\"68\" height=\"68\" rx=\"34\" fill=\"#D1D1D6\"/></svg>",
+        "title": "Configure your settings",
+        "desc": "Customize your security settings and policies using our intuitive dashboard. Start protecting your data with industry-leading tools."
+      }
+    ]
+  },
+  "talents":{
+    "title":"Create with talents in blockchain",
+    "intro":"HashKey Chain boasts a robust ecosystem with strong partnerships and diverse DApp support. Collaborating with leading blockchain projects enhances functionality and reach. Its thriving developer community drives innovation, while cross-chain interoperability ensures seamless blockchain interactions.",
+    "list": [
+      {
+        "link": "https://google.com",
+        "title": "StakSton",
+        "logo": "/static/home/h1.png",
+        "logoActive": "/static/home/h1-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "Bitlayer",
+        "logo": "/static/home/h2.png",
+        "logoActive": "/static/home/h2-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "KiloEx",
+        "logo": "/static/home/h3.png",
+        "logoActive": "/static/home/h3-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "Sign",
+        "logo": "/static/home/h4.png",
+        "logoActive": "/static/home/h4-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "imToken",
+        "logo": "/static/home/h5.png",
+        "logoActive": "/static/home/h5-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "YULIVERSE",
+        "logo": "/static/home/h6.png",
+        "logoActive": "/static/home/h6-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "SPACENATION",
+        "logo": "/static/home/h7.png",
+        "logoActive": "/static/home/h7-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "Polyhedra",
+        "logo": "/static/home/h8.png",
+        "logoActive": "/static/home/h8-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "SynFutures",
+        "logo": "/static/home/h9.png",
+        "logoActive": "/static/home/h9-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "TRUSTA",
+        "logo": "/static/home/h10.png",
+        "logoActive": "/static/home/h10-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "CELLULA",
+        "logo": "/static/home/h11.png",
+        "logoActive": "/static/home/h11-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "REVOX",
+        "logo": "/static/home/h12.png",
+        "logoActive": "/static/home/h12-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "puffer",
+        "logo": "/static/home/h13.png",
+        "logoActive": "/static/home/h13-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "BNETWORK",
+        "logo": "/static/home/h14.png",
+        "logoActive": "/static/home/h14-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "puffer",
+        "logo": "/static/home/h15.png",
+        "logoActive": "/static/home/h15-active.png"
+      },
+      {
+        "link": "https://google.com",
+        "title": "MATRX",
+        "logo": "/static/home/h16.png",
+        "logoActive": "/static/home/h16-active.png"
+      }
+    ]
+  },
+  "beginYourJourney":{
+    "title":"Begin your journey with HashKey",
+    "intro":"Learn more about building with HashKey, our latest security features3 ecosystem integrations, and the future of digital asset protection.",
+    "list":[{
+      "link": "https://google.com",
       "title": "Build with HashKey",
       "desc": "Access our comprehensive documentation and start implemnenting secure solutions with enterprise-grade security tools."
     },
     {
-      "link":"https://google.com",
+      "link": "https://google.com",
       "title": "Navigate Security",
       "desc": "Explore our latest innovations and strategic WAN developments."
     },
     {
-      "link":"https://google.com",
+      "link": "https://google.com",
       "title": "Tech Updates",
       "desc": "Latest security enhancements and feature releases."
     },
     {
-      "link":"https://google.com",
+      "link": "https://google.com",
       "title": "Explore Network",
       "desc": "Join our growing network of enterprises."
     },
     {
-      "link":"https://google.com",
+      "link": "https://google.com",
       "title": "Security Skills",
       "desc": "Enhance your security expertise."
     },
     {
-      "link":"https://google.com",
+      "link": "https://google.com",
       "title": "Achievements",
       "desc": "Track your security milestones."
-    }
-  ],
-  "ecosystem": [
-    {
-      "link":"https://google.com",
-      "title": "StakSton",
-      "logo": "/static/home/h1.png",
-      "logoActive": "/static/home/h1-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "Bitlayer",
-      "logo": "/static/home/h2.png",
-      "logoActive": "/static/home/h2-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "KiloEx",
-      "logo": "/static/home/h3.png",
-      "logoActive": "/static/home/h3-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "Sign",
-      "logo": "/static/home/h4.png",
-      "logoActive": "/static/home/h4-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "imToken",
-      "logo": "/static/home/h5.png",
-      "logoActive": "/static/home/h5-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "YULIVERSE",
-      "logo": "/static/home/h6.png",
-      "logoActive": "/static/home/h6-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "SPACENATION",
-      "logo": "/static/home/h7.png",
-      "logoActive": "/static/home/h7-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "Polyhedra",
-      "logo": "/static/home/h8.png",
-      "logoActive": "/static/home/h8-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "SynFutures",
-        "logo": "/static/home/h9.png",
-      "logoActive": "/static/home/h9-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "TRUSTA",
-          "logo": "/static/home/h10.png",
-      "logoActive": "/static/home/h10-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "CELLULA",
-      "logo": "/static/home/h11.png",
-      "logoActive": "/static/home/h11-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "REVOX",
-      "logo": "/static/home/h12.png",
-      "logoActive": "/static/home/h12-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "puffer",
-      "logo": "/static/home/h13.png",
-      "logoActive": "/static/home/h13-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "BNETWORK",
-      "logo": "/static/home/h14.png",
-      "logoActive": "/static/home/h14-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "puffer",
-      "logo": "/static/home/h15.png",
-      "logoActive": "/static/home/h15-active.png"
-    },
-    {
-      "link":"https://google.com",
-      "title": "MATRX",
-      "logo": "/static/home/h16.png",
-      "logoActive": "/static/home/h16-active.png"
-    }
-  ]
+    }]
+    
+  }
+ 
 }

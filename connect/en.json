@@ -1,0 +1,26 @@
+{
+  "connectWithUs": {
+    "title": "Connect with us",
+    "intro": "Keep up to date with the latest news and developments from the HashKey Community.",
+    "list": [
+      {
+        "icon": "/static/connect_1.png",
+        "title": "Join our Discord",
+        "desc": "Connect with other  HashKey developers and users in our community.",
+        "link": "https://discord.gg/hashkey"
+      },
+      {
+        "icon": "/static/connect_2.png",
+        "title": "Get in touch",
+        "desc": "Reach out directly if you need more support for your security implementation.",
+        "link": "https://discord.gg/hashkey"
+      },
+      {
+        "icon": "/static/connect_3.png",
+        "title": "Contribute to HashKey",
+        "desc": "Build with other developers and help shape the future of digital security.",
+        "link": "https://discord.gg/hashkey"
+      }
+    ]
+  }
+}
