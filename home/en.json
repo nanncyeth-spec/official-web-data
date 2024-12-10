@@ -45,100 +45,118 @@
     "intro":"HashKey Chain boasts a robust ecosystem with strong partnerships and diverse DApp support. Collaborating with leading blockchain projects enhances functionality and reach. Its thriving developer community drives innovation, while cross-chain interoperability ensures seamless blockchain interactions.",
     "list": [
       {
-        "link": "https://google.com",
-        "title": "StakSton",
-        "logo": "/static/home/h1.png",
-        "logoActive": "/static/home/h1-active.png"
+        "link": "https://www.okx.com/",
+        "title": "OKX",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/OKX.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/OKX.png"
       },
       {
-        "link": "https://google.com",
-        "title": "Bitlayer",
-        "logo": "/static/home/h2.png",
-        "logoActive": "/static/home/h2-active.png"
+        "link": "https://openbit.network/",
+        "title": "Open Bit",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/OpenBit_logo.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/OpenBit_logo.png"
       },
       {
-        "link": "https://google.com",
-        "title": "KiloEx",
-        "logo": "/static/home/h3.png",
-        "logoActive": "/static/home/h3-active.png"
+        "link": "https://alchemypay.org/",
+        "title": "Alchem Pay",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/alchemy_pay.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/alchemy_pay.png"
       },
       {
-        "link": "https://google.com",
-        "title": "Sign",
-        "logo": "/static/home/h4.png",
-        "logoActive": "/static/home/h4-active.png"
+        "link": "https://asteroidprotocol.io/",
+        "title": "Asteroid",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/asteroid.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/asteroid.png"
       },
       {
-        "link": "https://google.com",
-        "title": "imToken",
-        "logo": "/static/home/h5.png",
-        "logoActive": "/static/home/h5-active.png"
+        "link": "https://www.avalonfinance.xyz/",
+        "title": "Avalon Labs",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/avalon_labs.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/avalon_labs.png"
       },
       {
-        "link": "https://google.com",
-        "title": "YULIVERSE",
-        "logo": "/static/home/h6.png",
-        "logoActive": "/static/home/h6-active.png"
+        "link": "https://www.cellula.life/",
+        "title": "Cellula",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/cellula.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/cellula.png"
       },
       {
-        "link": "https://google.com",
-        "title": "SPACENATION",
-        "logo": "/static/home/h7.png",
-        "logoActive": "/static/home/h7-active.png"
+        "link": "https://coindpay.xyz/",
+        "title": "coined pay",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/coinedpay.avif",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/coinedpay.avif"
       },
       {
-        "link": "https://google.com",
-        "title": "Polyhedra",
-        "logo": "/static/home/h8.png",
-        "logoActive": "/static/home/h8-active.png"
+        "link": "https://www.digift.sg/index",
+        "title": "Digi FT",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/digiFT.svg",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/digiFT.svg"
       },
       {
-        "link": "https://google.com",
-        "title": "SynFutures",
-        "logo": "/static/home/h9.png",
-        "logoActive": "/static/home/h9-active.png"
+        "link": "https://dodoex.io/",
+        "title": "DODO",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/dodo_logo.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/dodo_logo.png"
       },
       {
-        "link": "https://google.com",
-        "title": "TRUSTA",
-        "logo": "/static/home/h10.png",
-        "logoActive": "/static/home/h10-active.png"
+        "link": "https://gate.io/",
+        "title": "Gate",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/gate.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/gate.png"
       },
       {
-        "link": "https://google.com",
-        "title": "CELLULA",
-        "logo": "/static/home/h11.png",
-        "logoActive": "/static/home/h11-active.png"
+        "link": "https://onekey.so/",
+        "title": "One Key",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/onekey.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/onekey.png"
       },
       {
-        "link": "https://google.com",
-        "title": "REVOX",
-        "logo": "/static/home/h12.png",
-        "logoActive": "/static/home/h12-active.png"
+        "link": "https://www.orbiter.finance/en",
+        "title": "Orbiter Finance",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/oribiter_finance.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/oribiter_finance.png"
       },
       {
-        "link": "https://google.com",
-        "title": "puffer",
-        "logo": "/static/home/h13.png",
-        "logoActive": "/static/home/h13-active.png"
+        "link": "https://owlto.finance/",
+        "title": "Owolto Finance",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/owolto_finance.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/owolto_finance.png"
       },
       {
-        "link": "https://google.com",
-        "title": "BNETWORK",
-        "logo": "/static/home/h14.png",
-        "logoActive": "/static/home/h14-active.png"
+        "link": "https://particle.network/",
+        "title": "Prticle network",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/partical_network.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/partical_network.png"
       },
       {
-        "link": "https://google.com",
-        "title": "puffer",
-        "logo": "/static/home/h15.png",
-        "logoActive": "/static/home/h15-active.png"
+        "link": "https://www.puffer.fi/",
+        "title": "Puffer.fi",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/puff_finance.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/puff_finance.png"
       },
       {
-        "link": "https://google.com",
-        "title": "MATRX",
-        "logo": "/static/home/h16.png",
-        "logoActive": "/static/home/h16-active.png"
+        "link": "https://solv.finance/",
+        "title": "Solv Protocol",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/solv.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/solv.png"
+      },
+      {
+        "link": "https://stakestone.io/",
+        "title": "StakeStone",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/stakestone.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/stakestone.png"
+      },
+      {
+        "link": "https://starrynift.art/",
+        "title": "starry nift.png",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/starry_nift.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/OpenBit_logo.png"
+      },
+      {
+        "link": "https://umy.com/",
+        "title": "umy",
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/umy.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/umy.png"
       }
     ]
   },
