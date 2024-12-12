@@ -83,14 +83,14 @@
       {
         "link": "https://coindpay.xyz/",
         "title": "coined pay",
-        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/coinedpay.avif",
-        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/coinedpay.avif"
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/coinedpay.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/coinedpay.png"
       },
       {
         "link": "https://www.digift.sg/index",
         "title": "Digi FT",
-        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/digiFT.svg",
-        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/digiFT.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/digiFT.png",
+        "logoActive": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/partner/img/digiFT.png"
       },
       {
         "link": "https://dodoex.io/",
