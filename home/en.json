@@ -9,7 +9,7 @@
       "title": "Earn Rewards"
     },
     {
-      "link": "/docs",
+      "link": "https://bridge.hsk.xyz/",
       "title": "Learn More"
     }
   ],
@@ -175,11 +175,11 @@
     },
     {
       "link": "https://hashfans.xyz/en",
-      "title": "Developer Community Hub",
+      "title": "Developer Events",
       "desc": "Discover tech events, connect with the developer community, and explore innovation together."
     },
     {
-      "link": "https://google.com",
+      "link": "https://github.com/orgs/HashkeyHSK/discussions/categories/introduction",
       "title": "Community Grants",
       "desc": "Build with us. Apply for grants and contribute to our growing ecosystem."
     },

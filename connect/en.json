@@ -7,19 +7,19 @@
         "icon": "/static/connect_1.png",
         "title": "Join our Discord",
         "desc": "Connect with other  HashKey developers and users in our community.",
-        "link": "https://discord.gg/hashkey"
+        "link": "https://discord.com/invite/hashkeychain"
       },
       {
         "icon": "/static/connect_2.png",
         "title": "Get in touch",
         "desc": "Reach out directly if you need more support for your security implementation.",
-        "link": "https://discord.gg/hashkey"
+        "link": "https://github.com/orgs/HashkeyHSK/discussions/categories/introduction"
       },
       {
         "icon": "/static/connect_3.png",
         "title": "Contribute to HashKey",
         "desc": "Build with other developers and help shape the future of digital security.",
-        "link": "https://discord.gg/hashkey"
+        "link": "https://github.com/HashkeyHSK"
       }
     ]
   }
