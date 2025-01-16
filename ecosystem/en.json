@@ -29,17 +29,17 @@
     ],
     "stats": [
         {
-            "title": "Total value secured",
+            "title": "Active Wallet",
             "value": "1.2",
             "suffix": "B"
         },
         {
-            "title": "Transaction count",
+            "title": "Transaction Count",
             "value": "1.2",
             "suffix": "M"
         },
         {
-            "title": "Security score",
+            "title": "Security Score",
             "value": "99.9",
             "suffix": "%"
         }
