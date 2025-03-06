@@ -133,7 +133,7 @@
             "index": 6,
             "title": "Kaia",
             "logo": "/static/ecosystem/e_6.png",
-            "link": "https://klaytn.foundation/",
+            "link": "https://www.kaia.io/",
             "categorys": [
                 "Infra",
                 "Layer1"
@@ -192,7 +192,7 @@
             ],
             "logo": "/static/ecosystem/e_11.png",
             "desc": "StakeStone, a liquidity staking derivatives basket(LSDb) token backed by ETH staking yield , integrates the mainstream staking pools, Re-Stake, and LSD’s blue-chip DeFi strategy yield to provide a new highly adaptable staking yield-bearing underlying asset for all protocols requiring LSDs liquidity.",
-            "link": "https://onekey.so/"
+            "link": "https://stakestone.io/#/home"
         },
         {
             "index": 12,
@@ -204,7 +204,7 @@
             ],
             "logo": "/static/ecosystem/e_12.png",
             "desc": "OneKey is an open-source cryptocurrency wallet that allows users to securely and conveniently store and use their crypto assets.",
-            "link": "OneKey: Hardware Wallet & Crypto DeFi Wallet | Crypto Security"
+            "link": "https://onekey.so/"
         },
         {
             "index": 13,
