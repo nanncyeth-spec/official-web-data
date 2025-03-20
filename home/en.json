@@ -194,6 +194,26 @@
       "desc": "Join discussions, share insights, and find answers within our developer community."
     }]
     
-  }
- 
+  },
+  "news": [
+    {
+      "title": "HashKey Chain Adopts Chainlink CCIP and Data Streams as Its Official Cross-Chain Infrastructure and Data Solution",
+      "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*YvMQKExO5ZQMnMO9",
+      "link": "https://medium.com/@HashKeyHSK/hashkey-chain-adopts-chainlink-ccip-and-data-streams-as-its-official-cross-chain-infrastructure-and-a564be768a79",
+      "desc": "Chainlink standards, adopting Chainlink Cross-Chain Interoperability Protocol (CCIP) as its canonical cross-chain infrastructure and Chainlink Data Streams as its official data solution. This collaboration strengthens the HashKey Chain ecosystem, empowering developers to build secure cross-chain applications and unlocking a new generation of high-throughput DeFi markets."
+    },
+    {
+      "title": "Guide to HSK Staking: Maximizing Your Returns",
+      "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*KBn9H2XsefVlOO61Cff7cw.jpeg",
+      "link": "https://medium.com/@HashKeyHSK/guide-to-hsk-staking-maximizing-your-returns-506415d5f329",
+      "desc": "Since the launch of HSK Staking, we have received valuable feedback from our users. Based on these suggestions, we are committed to continuously improving the staking product’s rewards and user experience."
+    },
+    {
+      "title": "HashKey Chain 2025 Roadmap: Empowering Asian Developers, Driving Growth in BTCFi, RWA, PayFi, and Stablecoins",
+      "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*aRIAW7JmVPsURxhjpKm6Vw.jpeg",
+      "link": "https://medium.com/@HashKeyHSK/hashkey-chain-2025-roadmap-empowering-asian-developers-driving-growth-in-btcfi-rwa-payfi-and-accc55a22133",
+      "desc": "As the Chinese proverb says: “Time flows constantly, and new chapters emerge daily.” At the turn of the year, HashKey Chain officially releases its 2025 roadmap, showcasing its latest development plans to our supportive users, developers, communities, and ecosystem partners. As a public blockchain that has been live on the mainnet for less than a month, HashKey Chain has already demonstrated a successful launch. We are deeply grateful for the trust and support of every user, community, and partner. In just a few months since the announcement of HashKey Chain, we’ve delivered"
+    }
+  ]
+
 }
