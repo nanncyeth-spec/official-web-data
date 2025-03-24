@@ -15,10 +15,10 @@
   ],
   "gettingStarted": {
     "title": "Getting Started",
-    "titile2": "with  HashKey",
+    "titile2": "with  HashKey Chain",
     "btnTitle": "Start Building",
     "btnLink": "/docs",
-    "introduction": "HashKey provides enterprise-grade security solutions with seamless integration, meaning everything works right out of the box.",
+    "introduction": "HashKey Chain provides enterprise-grade security solutions with seamless integration, meaning everything works right out of the box.",
     "list": [
       {
         "link": "/",
@@ -161,12 +161,12 @@
     ]
   },
   "beginYourJourney":{
-    "title":"Begin your journey with HashKey",
-    "intro":"Learn more about building with HashKey, our latest security features3 ecosystem integrations, and the future of digital asset protection.",
+    "title":"Begin your journey with HashKey Chain",
+    "intro":"Learn more about building with HashKey Chain, our latest security features ecosystem integrations, and the future of digital asset protection.",
     "list":[{
       "link": "/docs",
-      "title": "Build with HashKey",
-      "desc": "Access our comprehensive documentation and start implemnenting secure solutions with enterprise-grade security tools."
+      "title": "Build on HashKey Chain",
+      "desc": "Access our comprehensive documentation and start implementing secure solutions with enterprise-grade security tools."
     },
     {
       "link": "https://medium.com/@HashKeyHSK",
