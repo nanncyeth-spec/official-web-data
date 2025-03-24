@@ -44,35 +44,6 @@
             "suffix": "%"
         }
     ],
-    "highlights": [
-        {
-            "title": "从「太初」到「太极」：HashKey Chain 开发者系列活动开启东方区块链技术新叙事",
-            "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/Brand-Kit@main/OGP.jpg",
-            "link": "https://www.panewslab.com/zh/articledetails/i371s7i8.html",
-            "categorys": [
-                "News"
-            ],
-            "desc": "RootData is a Web3 asset data platform that pioneers in encapsulating both on-chain and off-chain data of Web3 assets, boasting higher data structuration and readability."
-        },
-        {
-            "title": "HashKey Chain 将与12月主网上线",
-            "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/Brand-Kit@main/OGP.jpg",
-            "link": "https://www.panewslab.com/zh/articledetails/h74criqp.html",
-            "categorys": [
-                "News"
-            ],
-            "desc": "Matr1x is the brand of Metaverse, planning to build the brand through high-quality games developed by themselves or in collaboration with third parties, game IP development and cooperation, and global Esports tournaments."
-        },
-        {
-            "title": "HSK测试网公测数据公布",
-            "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/Brand-Kit@main/OGP.jpg",
-            "link": "https://www.panewslab.com/zh/articledetails/7n2r1slh.html",
-            "categorys": [
-                "News"
-            ],
-            "desc": "Trusta Labs focuses on Web3 security infrastructure, aiming to bring more valuable users to the Web3 world."
-        }
-    ],
     "projects": [
         {
             "index": 1,
