@@ -1,12 +1,12 @@
 {
   "connectWithUs": {
     "title": "Connect with us",
-    "intro": "Keep up to date with the latest news and developments from the HashKey Community.",
+    "intro": "Keep up to date with the latest news and developments from the HashKey Chain Community.",
     "list": [
       {
         "icon": "/static/connect_1.png",
         "title": "Join our Discord",
-        "desc": "Connect with other  HashKey developers and users in our community.",
+        "desc": "Connect with other HashKey Chain developers and users in our community.",
         "link": "https://discord.com/invite/hashkeychain"
       },
       {
@@ -17,7 +17,7 @@
       },
       {
         "icon": "/static/connect_3.png",
-        "title": "Contribute to HashKey",
+        "title": "Contribute to HashKey Chain",
         "desc": "Build with other developers and help shape the future of digital security.",
         "link": "https://github.com/HashkeyHSK"
       }
