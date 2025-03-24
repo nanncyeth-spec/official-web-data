@@ -1,4 +1,5 @@
 {
+  "description": "HSK is the ecosystem token of HashKey Chain, designed for use across all HashKey Group businesses, including global licensed exchanges, investment management, tokenization, and infrastructure services. As an ERC-20 token with a capped supply of one billion (1,000,000,000), HSK serves as the native and gas token for HashKey Chain, a Layer 2 public blockchain.",
   "kit": [
     {
       "index": 1,
