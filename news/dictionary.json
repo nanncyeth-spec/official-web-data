@@ -1,5 +1,11 @@
 [
     {
+        "title": "[Announcement] Notification on HashKey Chain Mainnet Security Policy Upgrade",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "TTo further enhance the security of mainnet node operations, HashKey Chain will conduct a security policy upgrade and replacement of Node-level Operational Addresses on April 10, 2025 (Thursday), from 15:00 to 20:00 (GMT+8). During this process, the Sequencer will undergo a brief restart, which may result in approximately 10 minutes of temporary unavailability on the blockchain.",
+        "link": "20250409/mainnetupgrade"
+    },
+    {
         "title": "HashKey Chain Testnet Upgrade Announcement",
         "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
         "desc": "To ensure network stability and address known issues, we will be upgrading the op-node to version 1.12.2. This upgrade specifically resolves the Blob Fee calculation parameter bug, preventing potential additional fees during high L1 Blob Price conditions.",
