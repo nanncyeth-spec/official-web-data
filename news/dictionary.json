@@ -1,5 +1,11 @@
 [
     {
+        "title": "HashKey Chain & HSK Token Monthly Update: Ecosystem Expansion, Staking Milestones, and Global Builder Momentum",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "March was a milestone month across the HashKey ecosystem, marked by major product launches, developer activations in Asia, and the ongoing growth of the HSK token utility.",
+        "link": "20250411/apr_hsk_update"
+    },
+    {
         "title": "[Announcement] Notification on HashKey Chain Mainnet Security Policy Upgrade",
         "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
         "desc": "TTo further enhance the security of mainnet node operations, HashKey Chain will conduct a security policy upgrade and replacement of Node-level Operational Addresses on April 10, 2025 (Thursday), from 15:00 to 20:00 (GMT+8). During this process, the Sequencer will undergo a brief restart, which may result in approximately 10 minutes of temporary unavailability on the blockchain.",
