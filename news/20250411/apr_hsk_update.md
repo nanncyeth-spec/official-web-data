@@ -57,6 +57,8 @@ To support ongoing growth and ecosystem incentives, the following HSK tokens wer
 
 These distributions align with the HSK tokenomics framework and are designed to support builder rewards, user engagement, and long-term ecosystem expansion. Token burn plans are evaluated periodically and will be announced if applicable.
 
+HSK Page: https://group.hashkey.com/en/hsk
+
 ## Looking Ahead to Q2
 
 As we enter Q2, HashKey Chain will focus on:
