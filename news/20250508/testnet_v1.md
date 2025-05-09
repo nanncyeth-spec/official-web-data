@@ -22,10 +22,6 @@ Thank you for your understanding and support. The HashKey Chain team is committe
 —HashKey Chain Team
 
 <pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
 
 
 ## 各位HashKey Chain生态伙伴，
