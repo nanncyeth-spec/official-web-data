@@ -18,11 +18,7 @@ Thank you for your understanding and support. The HashKey Chain team is committe
 
 —HashKey Chain Team
 
-
-<br><br><br><br><br><br> 
-
-
-
+---
 
 ## 各位HashKey Chain生态伙伴
 HashKey Chain将于2025年5月13日（星期二）13:00-18:00（UTC+8）对测试网进行常规版本迭代，升级至op-node/v1.13.2，此次升级旨在为Isthmus 硬分叉提供兼容性支持，确保测试网能够顺利完成相关功能的预部署与验证工作。

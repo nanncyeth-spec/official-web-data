@@ -31,7 +31,7 @@ We'll continue sharing updates as we build with purpose.
 
 — HashKey Team
 
-<br><br><br><br><br><br>
+---
 
 ## HashKey Chain 月度更新（2025年5月）
 ## 生态系统进展 
