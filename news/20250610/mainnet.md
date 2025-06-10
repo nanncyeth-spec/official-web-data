@@ -1,4 +1,4 @@
-## [Notice] HashKey Chain Mainnet Upgrade This Thursday – Isthmus Support Finalized
+## HashKey Chain Mainnet Upgrade This Thursday – Isthmus Support Finalized
 
 Dear HashKey Chain ecosystem partners,
 Following the successful Isthmus hard fork and the testnet upgrade completed on May 13, HashKey Chain will proceed with a mainnet upgrade on Thursday, June 12, 2025, from 13:00 to 18:00 (UTC+8). This upgrade will transition the mainnet to op-node/v1.13.2 and ensure full compatibility with Isthmus-related features.
@@ -19,7 +19,7 @@ Thank you for your continued support! The HashKey Chain team remains committed t
 <br></br>
 <br></br>
 
-## 【公告】HashKey Chain主网将于本周四进行升级（已支持Isthmus分叉）
+##  HashKey Chain主网将于本周四进行升级（已支持Isthmus分叉）
 各位HashKey Chain生态伙伴，
 为进一步支持已完成的Isthmus硬分叉，并确保主网功能的稳定运行，HashKey Chain主网将于**2025年6月12日（星期四）13:00–18:00（UTC+8）**进行版本升级，升级至 op-node/v1.13.2。本次升级将为主网提供与Isthmus相关功能的完整兼容性支持。
 

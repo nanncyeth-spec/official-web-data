@@ -1,6 +1,11 @@
 [
+        {
+        "title": "[Announcement] HashKey Chain Unlocks Cross-Chain Future with Chainlink CCIP Integration",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "HashKey Chain has officially enabled cross-chain functionality for its native token HSK by adopting Chainlink’s Cross-Chain Interoperability Protocol (CCIP) and the Cross-Chain Token Standard (CCT)",
+        "link": "20250610/chainlink_whsk"
 {
-        "title": "[Announcement] [Notice] HashKey Chain Mainnet Upgrade This Thursday – Isthmus Support Finalized",
+        "title": "[Announcement] HashKey Chain Mainnet Upgrade This Thursday – Isthmus Support Finalized",
         "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
         "desc": "Following the successful Isthmus hard fork and the testnet upgrade completed on May 13",
         "link": "20250610/mainnet"
