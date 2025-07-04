@@ -1,7 +1,0 @@
-# Disclaimer
-
-HashKey Chain acts solely as a technology infrastructure provider, enabling asset issuers to deploy and issue tokenized products on-chain. The authenticity, origin, custody, security, pricing mechanisms, and compliance of the tokenized products are the sole responsibility of the issuers and their third-party service providers, and have no relation to HashKey Chain.
-
-The information contained in this material is provided for general reference only and does not constitute an offer, solicitation, or recommendation with respect to any virtual asset, security, or financial instrument. Any forward-looking statements contained herein, including but not limited to ecosystem development plans and anticipated use cases, may be subject to change due to legal, technological, regulatory, or other factors, and actual outcomes may differ materially from those expressed or implied.
-
-HashKey Chain makes no express or implied representations or warranties regarding the accuracy, completeness, or reliability of the information contained in this material. This material is intended solely for recipients in jurisdictions where such information may be lawfully received, and should not be construed as an offer or solicitation in any jurisdiction where such activities are prohibited by law or regulation.
