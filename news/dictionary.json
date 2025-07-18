@@ -1,4 +1,10 @@
 [  
+{
+        "title": "[Announcement] Notice of Scheduled HashKey Chain Testnet Hardware Upgrade",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "The primary purpose of this upgrade is to migrate our deployment method to Kubernetes, which will enhance scalability and operational efficiency.",
+        "link": "20250718/Testnet Hardware Upgrade"
+        },
         {
         "title": "[Announcement] HashKey Chain Launches Paimon SpaceX SPV Token on Mainnet",
         "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Paimon SpaceX SPV Token.webp",
