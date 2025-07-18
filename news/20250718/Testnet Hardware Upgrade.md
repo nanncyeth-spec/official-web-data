@@ -1,6 +1,7 @@
 ## [Announcement] Notice of Scheduled HashKey Chain Testnet Hardware Upgrade
 
 Dear HashKey Chain Ecosystem Partners:
+
 We are writing to inform you of a scheduled hardware upgrade for the HashKey Chain testnet on July 30, 2025. 
 
 The primary purpose of this upgrade is to migrate our deployment method to Kubernetes, which will enhance scalability and operational efficiency.
@@ -26,6 +27,7 @@ Thank you for your understanding and continued support. For real-time updates, p
 
 ##  【公告】关于HashKey Chain测试网硬件升级的通知）
 各位HashKey Chain生态伙伴:
+
 我们计划于 2025年7月30日 对测试网进行一次预定的硬件升级。
 
 此次升级主要涉及将部署方式切换至 Kubernetes，旨在提升系统的可扩展性和运营效率。
