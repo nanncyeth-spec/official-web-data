@@ -25,7 +25,7 @@ Thank you for your understanding and continued support. For real-time updates, p
 <br></br>
 <br></br>
 
-##  【公告】关于HashKey Chain测试网硬件升级的通知）
+##  【公告】关于HashKey Chain测试网硬件升级的通知
 各位HashKey Chain生态伙伴:
 
 我们计划于 2025年7月30日 对测试网进行一次预定的硬件升级。
