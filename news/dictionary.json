@@ -1,5 +1,35 @@
 [  
 {
+        "title": "[Upgrade Postponement Notice] HashKey Chain Testnet Hardware Upgrade Date Updated to July 31",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "The HashKey Chain testnet hardware upgrade is now updated to Thursday, July 31, 2025, starting at 14:00 (UTC+8).",
+        "link": "20250729/Upgrade Postponement"
+        },
+{
+        "title": "[Announcement] Notice of Scheduled HashKey Chain Testnet Hardware Upgrade",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "The primary purpose of this upgrade is to migrate our deployment method to Kubernetes, which will enhance scalability and operational efficiency.",
+        "link": "20250718/Testnet Hardware Upgrade"
+        },
+        {
+        "title": "[Announcement] HashKey Chain Launches Paimon SpaceX SPV Token on Mainnet",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Paimon SpaceX SPV Token.webp",
+        "desc": "HashKey Chain announced the successful deployment of $SPCX (Paimon SpaceX SPV Token), a tokenized special purpose fund share backed by U.S.-based aerospace company SpaceX, on its mainnet.",
+        "link": "20250716/Paimon SpaceX SPV Token"
+        },
+{
+        "title": "[Announcement] July 11 Token Update",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+        "desc": "HSK Token Release: To support the ongoing expansion of the HashKey ecosystem, the following HSK tokens were released in June 2025",
+        "link": "20250711/July 11 Token Update"
+        },
+{
+        "title": "[Announcement] HashKey Chain Officially Launches the veHSK Governance Mechanism",
+        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/VeHSK.webp",
+        "desc": "July 9, 2025, Hong Kong — HashKey Chain Officially Launches veHSK (vote-escrowed HSK), Introducing a New Governance Mechanism to Its Mainnet Ecosystem",
+        "link": "20250709/veHSK"
+        },
+{
         "title": "[Announcement] HashKey Group Completes Strategic Investment in Asseto to Accelerate RWA Tokenization",
         "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HASHKEYandASSETO.webp",
         "desc": "Hong Kong, July 7, 2025 — HashKey Group, Asia’s leading digital asset financial services group, today announced the completion of a strategic investment in fintech firm Asseto Holdings Limited (“Asseto”)",
