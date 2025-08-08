@@ -455,6 +455,17 @@
             "logo": "/static/ecosystem/e_37.png",
             "desc": "Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools. It processes transactions off-chain and posts succinct proofs of correctness on-chain, resulting in higher throughput and lower costs compared to the Ethereum base layer.",
             "link": "https://scroll.io/"
+        },
+        {
+            "index": 38,
+            "title": "MistTrack",
+            "logo": "/img/MistTrack.png",
+            "link": "https://misttrack.io/",
+            "categorys": [
+                "Infra",
+                "Tools"
+            ],
+            "desc": "MistTrack is an anti-money laundering tracking system developed by the SlowMist"
         }
     ]
 }
