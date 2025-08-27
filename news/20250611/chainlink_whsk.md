@@ -17,7 +17,7 @@ With CCIP as the canonical bridge, HashKey Chain is now connected to Chainlinkâ€
 
    SuperBridge: Use HashKeyâ€™s in-house SuperBridge for fast transfers between HashKey Chain, Base, Linea, and more.
 
-   Link: https://bridge.hsk.xyz/
+   Link: https://bridge.hashkeychain.net/
 
 3. Monitor Your Holdings
    Track your wHSK balance and transaction history on Blockscout.
