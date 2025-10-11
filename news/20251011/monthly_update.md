@@ -1,6 +1,6 @@
 ## HashKey Chain - HSK Token Release Update (Sept 2025)
 📢 HashKey Chain Monthly Update – September 2025
-HSK Token Release – September 29, 2025
+HSK Token Release 
 To maintain transparency and fairness, we are sharing the HSK token release details for September 2025:
 📊 Token Distribution Update
 - Ecosystem Growth Pool:
@@ -22,8 +22,8 @@ The mechanism remains a core pillar of HSK’s long-term value strategy. Once th
 <br></br>
 
 
-## HashKey Chain - HSK 代币发行更新（2025年9月）
-HSK 代币释放 – 2025年9月29日
+## HashKey Chain - HSK 币发行更新（2025年9月）
+HSK 代币释放
 为保持透明、公平，我们现公布2025年9月的 HSK 代币释放情况：
 📊 代币分配更新
 -  生态增长池：
