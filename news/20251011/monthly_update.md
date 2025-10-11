@@ -2,6 +2,7 @@
 📢 HashKey Chain Monthly Update – September 2025
 HSK Token Release 
 To maintain transparency and fairness, we are sharing the HSK token release details for September 2025:
+<br></br>
 📊 Token Distribution Update
 - Ecosystem Growth Pool:
  211,250,000 → 222,500,000 HSK
@@ -25,6 +26,7 @@ The mechanism remains a core pillar of HSK’s long-term value strategy. Once th
 ## HashKey Chain - HSK 币发行更新（2025年9月）
 HSK 代币释放
 为保持透明、公平，我们现公布2025年9月的 HSK 代币释放情况：
+<br></br>
 📊 代币分配更新
 -  生态增长池：
  211,250,000 → 222,500,000 HSK
