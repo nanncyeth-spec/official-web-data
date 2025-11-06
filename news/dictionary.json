@@ -1,182 +1,177 @@
 [
     {
-        "title": "HashKey Chain Mainnet Deploys New Project Timelock: Jointly Building the Next-Generation On-Chain Security Foundation",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Timelock.webp",
-        "desc": "HashKey Chain recently announced that the decentralized execution security protection layer Timelock has been officially deployed on the HashKey Chain mainnet and is now fully open.",
-        "link": "20251106/Timelock"
-    },
-    {
-        "title": "HashKey Chain Partners with ATT Global: Dual Ecosystem Incentives Open as On-Chain Integration Nears",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "HashKey Chain has announced a strategic partnership with Advertising Time Trace (ATT Global), an advertising technology project.",
-        "link": "20251024/att"
-    },
-    {
-        "title": "[Announcement] HashKey Chain - HSK Token Release Update (Sept 2025)",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Monthly Update.webp",
-        "desc": "To maintain transparency and fairness, we are sharing the HSK token release details for September 2025.",
-        "link": "20251011/monthly_update"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Monthly Update — HSK Token Release (Aug 2025)",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Monthly Update.webp",
-        "desc": "As part of our ongoing commitment to transparency and ecosystem growth, we are sharing the monthly HSK token release update for August 2025.",
-        "link": "20250911/Monthly_Update"
-    },
-    {
-        "title": "[Announcement] Notice of HashKey Chain Product Domain Switch",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/notice.webp",
-        "desc": "To enhance brand consistency and user experience, we are scheduled to switch the domains for HashKey Chain products on September 3, 2025, at 16:00 (UTC+8).",
-        "link": "20250901/Domain Switch"
-    },
-    {
-        "title": "[Announcement] SY Holdings Launches Asia-Pacific’s First Supply Chain RWA Tokenization on HashKey Chainhain",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/SY Holdings.webp",
-        "desc": "SY Holdings Group Limited (“SY Holdings”, stock code: 6069.HK), a leading digital technology firm specializing in AI-driven industrial supply chains, has launched the Asia-Pacific’s first[1] supply chain asset-backed Real World Asset (RWA) tokenization on HashKey Chain, an Ethereum Layer-2 blockchain operated by HashKey Group, Asia’s leading digital asset financial services group.",
-        "link": "20250827/SY Holdings"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Partners with GF Securities (Hong Kong) to Complete Hong Kong’s First Tokenized Corporate Note On-chain",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250821.webp",
-        "desc": " HashKey Chain announced that Hong Kong’s first tokenized corporate note has been deployed on-chain and formally issued.",
-        "link": "20250821/GF Securities"
-    },
-    {
-        "title": "[Token Update Announcement] HSK Token Release-August 2025",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "These releases remain aligned with our long-term roadmap and are designed to support upcoming key launches.",
-        "link": "20250812/Token Update Releasse 202508"
-    },
-    {
-        "title": "[Announcement] HashKey Chain and Web3.0 Standardization Association (Hong Kong) Sign Strategic Cooperation Agreement to Jointly Develop RWA Industry Implementation Standards",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250807.webp",
-        "desc": "Kathy, Head of CaaS at HashKey Chain, attended the 2025 「ANCHOR 」 WEB3.0 FUTURE SUMMIT RWA RESEARCH AND TECHNOLOGY ACHIEVEMENTS RELEASE CONFERENCE and jointly signed with Web3.0 Standardization Association (Hong Kong) the Agreement on Promoting the Healthy Development of the RWA Industry (the “Agreement”).",
-        "link": "20250807/Web_Standardization_Association"
-    },
-    {
-        "title": "[Upgrade Postponement Notice] HashKey Chain Testnet Hardware Upgrade Date Updated to July 31",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "The HashKey Chain testnet hardware upgrade is now updated to Thursday, July 31, 2025, starting at 14:00 (UTC+8).",
-        "link": "20250729/Upgrade Postponement"
-    },
-    {
-        "title": "[Announcement] Notice of Scheduled HashKey Chain Testnet Hardware Upgrade",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "The primary purpose of this upgrade is to migrate our deployment method to Kubernetes, which will enhance scalability and operational efficiency.",
-        "link": "20250718/Testnet Hardware Upgrade"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Launches Paimon SpaceX SPV Token on Mainnet",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Paimon SpaceX SPV Token.webp",
-        "desc": "HashKey Chain announced the successful deployment of $SPCX (Paimon SpaceX SPV Token), a tokenized special purpose fund share backed by U.S.-based aerospace company SpaceX, on its mainnet.",
-        "link": "20250716/Paimon SpaceX SPV Token"
-    },
-    {
-        "title": "[Announcement] July 11 Token Update",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "HSK Token Release: To support the ongoing expansion of the HashKey ecosystem, the following HSK tokens were released in June 2025",
-        "link": "20250711/July 11 Token Update"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Officially Launches the veHSK Governance Mechanism",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/VeHSK.webp",
-        "desc": "July 9, 2025, Hong Kong — HashKey Chain Officially Launches veHSK (vote-escrowed HSK), Introducing a New Governance Mechanism to Its Mainnet Ecosystem",
-        "link": "20250709/veHSK"
-    },
-    {
-        "title": "[Announcement] HashKey Group Completes Strategic Investment in Asseto to Accelerate RWA Tokenization",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HASHKEYandASSETO.webp",
-        "desc": "Hong Kong, July 7, 2025 — HashKey Group, Asia’s leading digital asset financial services group, today announced the completion of a strategic investment in fintech firm Asseto Holdings Limited (“Asseto”)",
-        "link": "20250707/asseto_july"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Partners with GF Securities (Hong Kong) to Launch First Tokenized Security with End-to-End On-Chain Deployment and Issuance",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "June 27, 2025, Hong Kong – HashKey Chain has officially announced that GF Securities (Hong Kong) has become the first securities firm in Hong Kong to issue tokenized securities by fully integrating with HashKey Chain",
-        "link": "20250627/gfsecurities"
-    },
-    {
-        "title": "[Announcement] HashKey Chain First-Phase HSK Points Rewards to Be Distributed",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "We’re excited to finally share some good news! As a heartfelt thank you",
-        "link": "20250625/points"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Monthly & Token Release Update  (June 2025)",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "Ecosystem Momentum – Major Deployments Live The past month delivered concrete progress with real institutional partnerships going live",
-        "link": "20250612/june_update"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Unlocks Cross-Chain Future with Chainlink CCIP Integration",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "HashKey Chain has officially enabled cross-chain functionality for its native token HSK by adopting Chainlink’s Cross-Chain Interoperability Protocol (CCIP) and the Cross-Chain Token Standard (CCT)",
-        "link": "20250611/chainlink_whsk"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Mainnet Upgrade This Thursday – Isthmus Support Finalized",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "Following the successful Isthmus hard fork and the testnet upgrade completed on May 13",
-        "link": "20250610/mainnet"
-    },
-    {
-        "title": "[Announcement] Asseto's Core Fund Product AoABT Officially Deployed on HashKey Chain",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "The core fund product AoABT, supported by the next-generation real-world asset platform Asseto, has been officially deployed on HashKey Chain in May 2025",
-        "link": "20250516/asseto"
-    },
-    {
-        "title": "[Announcement] HashKey Chain May Update",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "Ecosystem Progress - Quietly Building: While the past month may have appeared quiet externally, foundational work continued at full speed",
-        "link": "20250511/may_update"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Testnet Upgrade",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "HashKey Chain will conduct a regular version iteration of the testnet on Tuesday, May 13, 2025, from 13:00-18:00 (UTC+8), upgrading to op-node/v1.13.2.",
-        "link": "20250508/testnet_v1"
-    },
-    {
-        "title": "[Announcement] HashKey Chain Mainnet Upgrade",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "HashKey Chain will undergo a mainnet upgrade on Wednesday, April 16, 2025, to enhance network stability and fee control capabilities.",
-        "link": "20250414/opupdate"
-    },
-    {
-        "title": "HashKey Chain & HSK Token Monthly Update: Ecosystem Expansion, Staking Milestones, and Global Builder Momentum",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "March was a milestone month across the HashKey ecosystem, marked by major product launches, developer activations in Asia, and the ongoing growth of the HSK token utility.",
-        "link": "20250411/apr_hsk_update"
-    },
-    {
-        "title": "[Announcement] Notification on HashKey Chain Mainnet Security Policy Upgrade",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "TTo further enhance the security of mainnet node operations, HashKey Chain will conduct a security policy upgrade and replacement of Node-level Operational Addresses on April 10, 2025 (Thursday), from 15:00 to 20:00 (GMT+8). During this process, the Sequencer will undergo a brief restart, which may result in approximately 10 minutes of temporary unavailability on the blockchain.",
-        "link": "20250409/mainnetupgrade"
-    },
-    {
-        "title": "HashKey Chain Testnet Upgrade Announcement",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
-        "desc": "To ensure network stability and address known issues, we will be upgrading the op-node to version 1.12.2. This upgrade specifically resolves the Blob Fee calculation parameter bug, preventing potential additional fees during high L1 Blob Price conditions.",
-        "link": "20250401/upgrade"
-    },
-    {
-        "title": "HashKey Chain Adopts Chainlink CCIP and Data Streams as Its Official Cross-Chain Infrastructure and Data Solution",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250313-1.webp",
-        "desc": "Chainlink CCIP is a battle-tested cross-chain infrastructure that ensures security, scalability, and future compatibility. By leveraging CCIP, developers can seamlessly create secure and efficient cross-chain applications on HashKey Chain.",
-        "link": "20250313/chainlink"
-    },
-    {
-        "title": "Guide to HSK Staking: Maximizing Your Returns",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250305-1.webp",
-        "desc": "The HashKey Chain staking system utilizes an innovative share model, where staking rewards are distributed transparently and efficiently through stHSK tokens. In this article, we will explain how this economic model works and how you can maximize your staking returns.",
-        "link": "20250305/staking"
-    },
-    {
-        "title": "HashKey Chain 2025 Roadmap: Empowering Asian Developers, Driving Growth in BTCFi, RWA, PayFi, and Stablecoins",
-        "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250305-1.webp",
-        "desc": "As the Chinese proverb says: “Time flows constantly, and new chapters emerge daily.” At the turn of the year, HashKey Chain officially releases its 2025 roadmap, showcasing its latest development plans to our supportive users, developers, communities, and ecosystem partners. As a public blockchain that has been live on the mainnet for less than a month, HashKey Chain has already demonstrated a successful launch. We are deeply grateful for the trust and support of every user, community, and partner. In just a few months since the announcement of HashKey Chain, we’ve delivered impressive results",
-        "link": "20250115/roadmap"
-    }
+    "title": "HashKey Chain Partners with ATT Global: Dual Ecosystem Incentives Open as On-Chain Integration Nears",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "HashKey Chain has announced a strategic partnership with Advertising Time Trace (ATT Global), an advertising technology project.",
+    "link": "20251024/att"
+},
+{
+    "title": "[Announcement] HashKey Chain - HSK Token Release Update (Sept 2025)",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Monthly Update.webp",
+    "desc": "To maintain transparency and fairness, we are sharing the HSK token release details for September 2025.",
+    "link": "20251011/monthly_update"
+},
+{
+    "title": "[Announcement] HashKey Chain Monthly Update — HSK Token Release (Aug 2025)",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Monthly Update.webp",
+    "desc": "As part of our ongoing commitment to transparency and ecosystem growth, we are sharing the monthly HSK token release update for August 2025.",
+    "link": "20250911/Monthly_Update"
+},
+{
+    "title": "[Announcement] Notice of HashKey Chain Product Domain Switch",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/notice.webp",
+    "desc": "To enhance brand consistency and user experience, we are scheduled to switch the domains for HashKey Chain products on September 3, 2025, at 16:00 (UTC+8).",
+    "link": "20250901/Domain Switch"
+},
+{
+    "title": "[Announcement] SY Holdings Launches Asia-Pacific’s First Supply Chain RWA Tokenization on HashKey Chainhain",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/SY Holdings.webp",
+    "desc": "SY Holdings Group Limited (“SY Holdings”, stock code: 6069.HK), a leading digital technology firm specializing in AI-driven industrial supply chains, has launched the Asia-Pacific’s first[1] supply chain asset-backed Real World Asset (RWA) tokenization on HashKey Chain, an Ethereum Layer-2 blockchain operated by HashKey Group, Asia’s leading digital asset financial services group.",
+    "link": "20250827/SY Holdings"
+},
+{
+    "title": "[Announcement] HashKey Chain Partners with GF Securities (Hong Kong) to Complete Hong Kong’s First Tokenized Corporate Note On-chain",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250821.webp",
+    "desc": " HashKey Chain announced that Hong Kong’s first tokenized corporate note has been deployed on-chain and formally issued.",
+    "link": "20250821/GF Securities"
+},
+{
+    "title": "[Token Update Announcement] HSK Token Release-August 2025",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "These releases remain aligned with our long-term roadmap and are designed to support upcoming key launches.",
+    "link": "20250812/Token Update Releasse 202508"
+},
+{
+    "title": "[Announcement] HashKey Chain and Web3.0 Standardization Association (Hong Kong) Sign Strategic Cooperation Agreement to Jointly Develop RWA Industry Implementation Standards",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250807.webp",
+    "desc": "Kathy, Head of CaaS at HashKey Chain, attended the 2025 「ANCHOR 」 WEB3.0 FUTURE SUMMIT RWA RESEARCH AND TECHNOLOGY ACHIEVEMENTS RELEASE CONFERENCE and jointly signed with Web3.0 Standardization Association (Hong Kong) the Agreement on Promoting the Healthy Development of the RWA Industry (the “Agreement”).",
+    "link": "20250807/Web_Standardization_Association"
+},
+{
+    "title": "[Upgrade Postponement Notice] HashKey Chain Testnet Hardware Upgrade Date Updated to July 31",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "The HashKey Chain testnet hardware upgrade is now updated to Thursday, July 31, 2025, starting at 14:00 (UTC+8).",
+    "link": "20250729/Upgrade Postponement"
+},
+{
+    "title": "[Announcement] Notice of Scheduled HashKey Chain Testnet Hardware Upgrade",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "The primary purpose of this upgrade is to migrate our deployment method to Kubernetes, which will enhance scalability and operational efficiency.",
+    "link": "20250718/Testnet Hardware Upgrade"
+},
+{
+    "title": "[Announcement] HashKey Chain Launches Paimon SpaceX SPV Token on Mainnet",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Paimon SpaceX SPV Token.webp",
+    "desc": "HashKey Chain announced the successful deployment of $SPCX (Paimon SpaceX SPV Token), a tokenized special purpose fund share backed by U.S.-based aerospace company SpaceX, on its mainnet.",
+    "link": "20250716/Paimon SpaceX SPV Token"
+},
+{
+    "title": "[Announcement] July 11 Token Update",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "HSK Token Release: To support the ongoing expansion of the HashKey ecosystem, the following HSK tokens were released in June 2025",
+    "link": "20250711/July 11 Token Update"
+},
+{
+    "title": "[Announcement] HashKey Chain Officially Launches the veHSK Governance Mechanism",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/VeHSK.webp",
+    "desc": "July 9, 2025, Hong Kong — HashKey Chain Officially Launches veHSK (vote-escrowed HSK), Introducing a New Governance Mechanism to Its Mainnet Ecosystem",
+    "link": "20250709/veHSK"
+},
+{
+    "title": "[Announcement] HashKey Group Completes Strategic Investment in Asseto to Accelerate RWA Tokenization",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HASHKEYandASSETO.webp",
+    "desc": "Hong Kong, July 7, 2025 — HashKey Group, Asia’s leading digital asset financial services group, today announced the completion of a strategic investment in fintech firm Asseto Holdings Limited (“Asseto”)",
+    "link": "20250707/asseto_july"
+},
+{
+    "title": "[Announcement] HashKey Chain Partners with GF Securities (Hong Kong) to Launch First Tokenized Security with End-to-End On-Chain Deployment and Issuance",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "June 27, 2025, Hong Kong – HashKey Chain has officially announced that GF Securities (Hong Kong) has become the first securities firm in Hong Kong to issue tokenized securities by fully integrating with HashKey Chain",
+    "link": "20250627/gfsecurities"
+},
+{
+    "title": "[Announcement] HashKey Chain First-Phase HSK Points Rewards to Be Distributed",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "We’re excited to finally share some good news! As a heartfelt thank you",
+    "link": "20250625/points"
+},
+
+{
+    "title": "[Announcement] HashKey Chain Monthly & Token Release Update  (June 2025)",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "Ecosystem Momentum – Major Deployments Live The past month delivered concrete progress with real institutional partnerships going live",
+    "link": "20250612/june_update"
+},
+{
+    "title": "[Announcement] HashKey Chain Unlocks Cross-Chain Future with Chainlink CCIP Integration",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "HashKey Chain has officially enabled cross-chain functionality for its native token HSK by adopting Chainlink’s Cross-Chain Interoperability Protocol (CCIP) and the Cross-Chain Token Standard (CCT)",
+    "link": "20250611/chainlink_whsk"
+},
+{
+    "title": "[Announcement] HashKey Chain Mainnet Upgrade This Thursday – Isthmus Support Finalized",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "Following the successful Isthmus hard fork and the testnet upgrade completed on May 13",
+    "link": "20250610/mainnet"
+},
+{
+    "title": "[Announcement] Asseto's Core Fund Product AoABT Officially Deployed on HashKey Chain",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "The core fund product AoABT, supported by the next-generation real-world asset platform Asseto, has been officially deployed on HashKey Chain in May 2025",
+    "link": "20250516/asseto"
+},
+{
+    "title": "[Announcement] HashKey Chain May Update",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "Ecosystem Progress - Quietly Building: While the past month may have appeared quiet externally, foundational work continued at full speed",
+    "link": "20250511/may_update"
+},
+{
+    "title": "[Announcement] HashKey Chain Testnet Upgrade",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "HashKey Chain will conduct a regular version iteration of the testnet on Tuesday, May 13, 2025, from 13:00-18:00 (UTC+8), upgrading to op-node/v1.13.2.",
+    "link": "20250508/testnet_v1"
+},
+{
+    "title": "[Announcement] HashKey Chain Mainnet Upgrade",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "HashKey Chain will undergo a mainnet upgrade on Wednesday, April 16, 2025, to enhance network stability and fee control capabilities.",
+    "link": "20250414/opupdate"
+},
+{
+    "title": "HashKey Chain & HSK Token Monthly Update: Ecosystem Expansion, Staking Milestones, and Global Builder Momentum",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "March was a milestone month across the HashKey ecosystem, marked by major product launches, developer activations in Asia, and the ongoing growth of the HSK token utility.",
+    "link": "20250411/apr_hsk_update"
+},
+{
+    "title": "[Announcement] Notification on HashKey Chain Mainnet Security Policy Upgrade",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "TTo further enhance the security of mainnet node operations, HashKey Chain will conduct a security policy upgrade and replacement of Node-level Operational Addresses on April 10, 2025 (Thursday), from 15:00 to 20:00 (GMT+8). During this process, the Sequencer will undergo a brief restart, which may result in approximately 10 minutes of temporary unavailability on the blockchain.",
+    "link": "20250409/mainnetupgrade"
+},
+{
+    "title": "HashKey Chain Testnet Upgrade Announcement",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "desc": "To ensure network stability and address known issues, we will be upgrading the op-node to version 1.12.2. This upgrade specifically resolves the Blob Fee calculation parameter bug, preventing potential additional fees during high L1 Blob Price conditions.",
+    "link": "20250401/upgrade"
+},
+{
+    "title": "HashKey Chain Adopts Chainlink CCIP and Data Streams as Its Official Cross-Chain Infrastructure and Data Solution",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250313-1.webp",
+    "desc": "Chainlink CCIP is a battle-tested cross-chain infrastructure that ensures security, scalability, and future compatibility. By leveraging CCIP, developers can seamlessly create secure and efficient cross-chain applications on HashKey Chain.",
+    "link": "20250313/chainlink"
+},
+{
+    "title": "Guide to HSK Staking: Maximizing Your Returns",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250305-1.webp",
+    "desc": "The HashKey Chain staking system utilizes an innovative share model, where staking rewards are distributed transparently and efficiently through stHSK tokens. In this article, we will explain how this economic model works and how you can maximize your staking returns.",
+    "link": "20250305/staking"
+},
+{
+    "title": "HashKey Chain 2025 Roadmap: Empowering Asian Developers, Driving Growth in BTCFi, RWA, PayFi, and Stablecoins",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250305-1.webp",
+    "desc": "As the Chinese proverb says: “Time flows constantly, and new chapters emerge daily.” At the turn of the year, HashKey Chain officially releases its 2025 roadmap, showcasing its latest development plans to our supportive users, developers, communities, and ecosystem partners. As a public blockchain that has been live on the mainnet for less than a month, HashKey Chain has already demonstrated a successful launch. We are deeply grateful for the trust and support of every user, community, and partner. In just a few months since the announcement of HashKey Chain, we’ve delivered impressive results",
+    "link": "20250115/roadmap"
+}
 ]
