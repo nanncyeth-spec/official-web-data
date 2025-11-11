@@ -30,7 +30,7 @@ Media Contact: chain@hashkey.com
 
 ## [公告] HSK 代币释放公告 – 2025年10月
 
-为了持续推动 HashKey 生态的建设，并保持信息透明，我们现公布 2025年11月 的 HSK 代币释放情况：
+为了持续推动 HashKey 生态的建设，并保持信息透明，我们现公布 2025年10月 的 HSK 代币释放情况：
 
 生态增长池（Ecosystem Growth Pool）： 从 211,250,000 增加至 233,750,000 HSK
 
