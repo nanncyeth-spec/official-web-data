@@ -6,7 +6,7 @@ Ecosystem Growth Pool: 211,250,000 → 233,750,000 HSK
 
 Team Pool: 66,659,998 → 74,979,999 HSK
 
-Total: 277,909,998 → 317,069,998 HSK
+Total: 289,149,999 → 308,729,999 HSK
 
 These allocations support developer incentives, ecosystem initiatives, and long-term team alignment as the HashKey Chain continues to expand.
 
@@ -36,7 +36,7 @@ Media Contact: chain@hashkey.com
 
 团队激励池（Team Pool）： 从 66,659,998 增加至 74,979,999 HSK
 
-总计（Total）： 从 277,909,998 增加至 317,069,998 HSK
+总计（Total）： 从 289,149,999 增加至 308,729,999 HSK
 
 本次释放将用于支持开发者激励、生态合作及长期团队激励，助力 HashKey Chain 的持续成长与生态扩展。
 
