@@ -4,9 +4,9 @@ HSK Token Release: To support the ongoing expansion of the HashKey ecosystem, th
 
 Ecosystem Growth Pool: 177,500,000 → 188,750,000 HSK
 
-Team Incentive Pool: 41,666,665 → 49,999,998 HSK
+Team Incentive Pool: 33,329,999 → 41,659,999 HSK
 
-Total Supply Released to Date: 219,166,665 → 238,749,998 HSK
+Total Supply Released to Date: 210,829,999 → 230,409,999 HSK
 
 
 🔗 Full details: https://group.hashkey.com/en/hsk
@@ -21,11 +21,11 @@ The tokens released continue to align with our long-term roadmap and are designe
 
 为支持 HashKey 生态系统的持续扩展，2025年6月释放了以下 HSK 代币：
 
-生态增长池：从 1.775 亿 增加到 1.8875 亿 HSK
+生态增长池：从 177,500,000 增加到 188,750,000 HSK
 
-团队激励池：从 4166.6665 万 增加到 4999.9998 万 HSK
+团队激励池：从 33,329,999 增加到 41,659,999 HSK
 
-累计释放总量：从 2.19166665 亿 增加到 2.38749998 亿 HSK
+累计释放总量：从 210,829,999 增加到 230,409,999 HSK
 
 🔗 详情请见：https://group.hashkey.com/en/hsk
 
