@@ -6,9 +6,9 @@ HSK Token Release (Update)
 
  Ecosystem Growth Pool: 188,750,000 → 200,000,000 HSK 
 <br></br>
- Team Incentive Pool: 49,999,998 → 58,329,998 HSK
+ Team Incentive Pool: 41,659,999 → 49,999,998 HSK
 <br></br>
- Total Supply Released to Date: 238,749,998 → 258,329,998 HSK
+ Total Supply Released to Date: 230,409,999 → 249,989,999 HSK
 <br></br>
 
 🔗 Full details: https://group.hashkey.com/en/hsk
