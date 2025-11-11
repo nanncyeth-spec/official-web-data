@@ -1,6 +1,6 @@
 ## [Announcement] HSK Token Release (October 2025)
 
-As part of our ongoing commitment to transparency and ecosystem growth, we are sharing the monthly HSK token release update for November 2025:
+As part of our ongoing commitment to transparency and ecosystem growth, we are sharing the monthly HSK token release update for October 2025:
 
 Ecosystem Growth Pool: 211,250,000 → 233,750,000 HSK
 
