@@ -4,7 +4,7 @@ As part of our ongoing commitment to transparency and ecosystem growth, we are s
 
 Ecosystem Growth Pool: 211,250,000 → 233,750,000 HSK
 
-Team Pool: 66,659,998 → 83,319,998 HSK
+Team Pool: 66,659,998 → 74,979,999 HSK
 
 Total: 277,909,998 → 317,069,998 HSK
 
@@ -34,7 +34,7 @@ Media Contact: chain@hashkey.com
 
 生态增长池（Ecosystem Growth Pool）： 从 211,250,000 增加至 233,750,000 HSK
 
-团队激励池（Team Pool）： 从 66,659,998 增加至 83,319,998 HSK
+团队激励池（Team Pool）： 从 66,659,998 增加至 74,979,999 HSK
 
 总计（Total）： 从 277,909,998 增加至 317,069,998 HSK
 
