@@ -20,7 +20,7 @@ These developments represent concrete steps toward our vision of compliant, acce
 ## HSK Token Release: 
 To support the ongoing expansion of the HashKey ecosystem, the following HSK tokens were released in June 2025:
 - Ecosystem Growth Pool: 166,250,000 → 177,500,000 HSK
-- Team Pool: 24,999,999 → 41,666,665 HSK
+- Team Pool: 24,999,999 → 33,329,999 HSK
 - Full details: https://group.hashkey.com/en/hsk
 
 The tokens released continue to align with our long-term roadmap and support ecosystem development for key infrastructure launches and partnership incentives.
