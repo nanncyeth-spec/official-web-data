@@ -3,6 +3,7 @@
 HSK Token Release 
 To maintain transparency and fairness, we are sharing the HSK token release details for September 2025:
 <br></br>
+
 📊 Token Distribution Update
 - Ecosystem Growth Pool:
  211,250,000 → 222,500,000 HSK
@@ -10,6 +11,7 @@ To maintain transparency and fairness, we are sharing the HSK token release deta
  58,319,999 → 66,649,999 HSK
 - Total:
  269,569,999 → 289,149,999 HSK
+
 This release continues to support developer incentives, ecosystem development, and long-term team alignment, driving the ongoing expansion of HashKey Chain.
 
 🔁 Quarterly Repurchase & Burn Mechanism Update
