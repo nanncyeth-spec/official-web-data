@@ -7,9 +7,9 @@ To maintain transparency and fairness, we are sharing the HSK token release deta
 - Ecosystem Growth Pool:
  211,250,000 → 222,500,000 HSK
 - Team Pool:
- 66,659,998 → 74,989,998 HSK
+ 58,319,999 → 66,649,999 HSK
 - Total:
- 277,909,998 → 297,489,998 HSK
+ 269,569,999 → 289,149,999 HSK
 This release continues to support developer incentives, ecosystem development, and long-term team alignment, driving the ongoing expansion of HashKey Chain.
 
 🔁 Quarterly Repurchase & Burn Mechanism Update
@@ -31,9 +31,9 @@ HSK 代币释放
 -  生态增长池：
  211,250,000 → 222,500,000 HSK
 -  团队池：
- 66,659,998 → 74,989,998 HSK
+ 58,319,999 → 66,659,998 HSK
 -  总计：
- 277,909,998 → 297,489,998 HSK 
+ 269,569,999 → 289,149,999 HSK 
 本次释放将继续用于支持开发者激励、生态建设以及团队长期激励，推动 HashKey Chain 持续扩展。
 
 🔁 季度回购与销毁机制更新
