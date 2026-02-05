@@ -1,4 +1,4 @@
-## [Announcement] HashKey Chain – Horizon Hackathon Officially Live!
+## [Announcement] HashKey Chain——Horizon Hackathon Officially Live
 
 As artificial intelligence continues to make breakthroughs in intelligent decision-making, automated execution, and complex system modeling, financial infrastructure is entering a new phase of deep, technology-driven transformation. 
 <br></br>
