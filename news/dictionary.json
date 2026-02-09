@@ -1,5 +1,11 @@
 [ 
     {
+    "title": "[Announcement] HSK Token Release (Jan 2026)",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/Monthly Update.webp",
+    "desc": "To maintain transparency and fairness, we hereby announce the release status of HSK tokens for Jan 2026.",
+    "link": "20260209/TokenRelease202601"
+},
+    {
     "title": "[Announcement] HashKey Chain——Horizon Hackathon Officially Live",
     "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HorizonHackathon.webp",
     "desc": "HashKey Chain, Ethereum Application Guild (EAG), and DGrid AI jointly announce the official launch of the HashKey Chain – Horizon Hackathon.",
