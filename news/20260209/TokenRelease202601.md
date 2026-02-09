@@ -13,6 +13,12 @@ Team Pool:
 Total:
 347,890,002 → 367,469,999 HSK 
 <br></br>
+——🔁 Quarterly update on Buyback and Burn
+<br></br>
+Referring to the token economy section of the white paper, the buyback mechanism has not been activated this quarter.
+<br></br>
+🔗 Full details: https://group.hashkey.com/en/hsk
+<br></br>
 The funds released this time will be used to support developer community incentives, on-chain ecosystem construction, and long-term team incentives, driving the sustainable development of the HashKey Chain ecosystem.
 <br></br>
 We appreciate the community’s ongoing support and understanding.
@@ -37,6 +43,12 @@ We appreciate the community’s ongoing support and understanding.
 347,890,002 → 367,469,999 HSK 
 <br></br>
 本次释放将用于支持开发者社区激励、链上生态建设以及团队长期激励，推动 HashKey Chain上生态持续发展。
+<br></br>
+——🔁 季度回购与销毁机制数据更新
+<br></br>
+参考白皮书代币经济部分，本季度回购机制尚未激活。
+<br></br>
+详情：https://group.hashkey.com/en/hsk
 <br></br>
 感谢社区一直以来的理解与支持。
 - HashKey Chain 官网： https://www.hashkeychain.net
