@@ -23,7 +23,7 @@ As of February 25, 2026, HashKey Exchange ranks 16th on CoinGecko, making it the
 <br></br>
 About Hashkey Chain
 <br></br>
-HashKey Chain is a compliance-friendly, institutional-grade blockchain designed to rebuild global financial markets on-chain. Anchored in compliance, security, and innovation, it provides the foundational environment for the next era of on-chain finance — where stablecoins, RWA, and Institutional DeFi operate seamlessly together.
+HashKey Chain is an institutional-grade Layer2 blockchain designed to rebuild global financial markets on-chain. Architected in security and innovation, it provides the infrastructure for the next era of on-chain finance, redefining how stablecoins, RWA, and Institutional DeFi integrate.
 <br></br>
 - Official Website: https://hsk.xyz/
 - Media Contact: hsk@hashkey.com
@@ -50,7 +50,7 @@ https://support.hashkey.com/hc/zh-tw/articles/34286118049945-HashKey-Exchange%E6
 <br></br>
 關於HashKey Chain 
 <br></br>
-HashKey Chain 是隸屬於 HashKey（股票代號：3887.HK） 旗下的一條合規友善的機構級區塊鏈，致力於在鏈上重塑全球金融市場。以合規、安全與創新為特色，HashKey Chain 為新一代鏈上金融提供基礎設施，讓穩定幣、RWA（現實世界資產）與機構級 DeFi 能夠在同一體系中高效協同、無縫運作。
+HashKey Chain 是一條機構級 Layer2 區塊鏈，致力於在鏈上重塑全球金融市場。以安全與創新為特色，HashKey Chain 為新一代鏈上金融提供基礎設施，實現穩定幣、RWA（現實世界資產）與機構級 DeFi 在同一體系中高效協同、無縫運作。
 <br></br>
 了解更多：
 - HashKey Chain 官網： https://hsk.xyz/
