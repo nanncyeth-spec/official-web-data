@@ -2,18 +2,12 @@
 
 To maintain transparency and fairness, we hereby announce the release status of HSK tokens for Jan 2026:
 <br></br>
-——📊 Token Distribution Update
-<br></br>
-Ecosystem Growth Pool:
-256,250,000 → 267,500,000 HSK
-<br></br>
-Team Pool:
- 91,639,999 → 99,969,999 HSK
-<br></br>
-Total:
-347,890,002 → 367,469,999 HSK 
-<br></br>
-——🔁 Quarterly update on Buyback and Burn
+Token Distribution Update
+- Ecosystem Growth Pool:245,000,000 HSK
+- Team Pool:99,960,000 HSK
+- Total:344,960,000 HSK
+
+Quarterly update on Buyback and Burn
 <br></br>
 Referring to the token economy section of the white paper, the buyback mechanism has not been activated this quarter.
 <br></br>
@@ -31,20 +25,14 @@ We appreciate the community’s ongoing support and understanding.
 <br></br>
 为保持透明、公平，我们现公布2026年1月的 HSK 代币释放情况：
 <br></br>
-——代币分配更新
-<br></br>
-生态增长池：
-256,250,000 → 267,500,000 HSK
-<br></br>
-团队池：
-91,639,999 → 99,969,999 HSK
-<br></br>
-总计：
-347,890,002 → 367,469,999 HSK 
-<br></br>
+代币分配更新
+- 生态增长池：245,000,000 HSK
+- 团队池：99,960,000 HSK
+- 总计：344,960,000 HSK
+
 本次释放将用于支持开发者社区激励、链上生态建设以及团队长期激励，推动 HashKey Chain上生态持续发展。
 <br></br>
-——🔁 季度回购与销毁机制数据更新
+季度回购与销毁机制数据更新
 <br></br>
 参考白皮书代币经济部分，本季度回购机制尚未激活。
 <br></br>
