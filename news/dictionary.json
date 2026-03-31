@@ -1,5 +1,11 @@
 [ 
     {
+    "title": "[Announcement] HashKey Chain Horizon Hackathon Officially Launched",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/timeline.webp",
+    "desc": "This hackathon primarily adopts an online format to lower participation barriers for global developers, while also providing continuous opportunities for technical exchange and ecosystem connection through online AMAs and offline events in Hong Kong. ",
+    "link": "20260401/Hackathon"
+},
+    {
     "title": "[Announcement] HashKey Chain Supports the On-Chain Issuance of Hong Kong's First Regulated Silver Backed RWA Tokens",
     "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/SilverTokens.webp",
     "desc": "HashKey Chain, a leading institutional-grade public chain under HashKey Group, has announced its support for the on-chain issuance and operation of the regulated silver backed Real World Asset (RWA) Tokens. ",
