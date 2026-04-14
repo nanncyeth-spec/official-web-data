@@ -1,4 +1,4 @@
-## [Announcement] 2026Q2 Quarterly update on Buyback and Burn
+## [Announcement] 2026 Q1 Quarterly update on Buyback and Burn
 
 Referring to the token economy section of the white paper, the buyback mechanism has not been activated this quarter.
 <br></br>
@@ -10,7 +10,7 @@ We appreciate the community’s ongoing support and understanding.
 - Disclaimer: https://hsk.xyz/news/disclaimer/Disclaimer
 - Media Contact: chain@hashkey.com
 <br></br>
-## 2026 Q2季度回購與銷毀機製數據更新
+## 2026 Q1季度回購與銷毀機製數據更新
 參考白皮書代幣經濟部分，本季度回購機製尚未激活。
 <br></br>
 詳情：https://group.hashkey.com/en/hsk
