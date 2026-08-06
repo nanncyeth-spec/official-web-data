@@ -1,5 +1,11 @@
 [ 
    {
+    "title": "[Announcement] HSK Token Release (July 2026)",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKTOKENUPDATE.webp",
+    "desc": "To maintain transparency and fairness, we hereby announce the release status of HSK tokens for July 2026:",
+    "link": "20260806/TokenRelease202607"
+},
+   {
     "title": "[Announcement] HSK Chain Gas Fee Adjustment",
     "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKCHAINANNOUNCEMENT.webp",
     "desc": "HSK Chain has adjusted the base network gas fee to 0.02 HSK.",
