@@ -48,7 +48,7 @@
 },
     {
     "title": "[Announcement] HSK Token Release (March 2026)",
-    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKUPDATE.webp",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKTOKENUPDATE.webp",
     "desc": "To maintain transparency and fairness, we hereby announce the release status of HSK tokens for March 2026. ",
     "link": "20260409/TokenRelease202603"
 },
@@ -289,7 +289,7 @@
 },
 {
     "title": "HashKey Chain Testnet Upgrade Announcement",
-    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/20250401-1.webp",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKCHAINANNOUCEMENT.webp",
     "desc": "To ensure network stability and address known issues, we will be upgrading the op-node to version 1.12.2. This upgrade specifically resolves the Blob Fee calculation parameter bug, preventing potential additional fees during high L1 Blob Price conditions.",
     "link": "20250401/upgrade"
 },
