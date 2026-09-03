@@ -22,7 +22,7 @@ Thank you for your patience and trust.
 ## 官方公告｜HSK 質押贖回說明
 親愛的 HSK 社群：
 <br></br>
-我們注意到，在 HSK Staking Season 1 贖回過程中，部分用戶收到的贖回金額與預期存在差異。
+我們注意到，在 HSK Staking Season 1 贖回過程中，部分用戶收到的金額未能被充分反映。
 <br></br>
 請放心：
 - 您的資金安全無虞，沒有任何資產遭到損害或轉移。
