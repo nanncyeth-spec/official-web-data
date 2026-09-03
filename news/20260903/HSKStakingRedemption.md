@@ -2,7 +2,7 @@
 
 Dear HSK Community,
 <br></br>
-We have observed that during the HSK Staking Season 1 redemption process, the amounts received by some users did not match expectations.
+We have observed that during the HSK Staking Season 1 redemption process, the amounts received by some users were not adequately reflected.
 <br></br>
 Please rest assured:
 - Your funds are safe. No assets have been compromised or transferred.
