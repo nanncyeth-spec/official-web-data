@@ -1,5 +1,11 @@
 [ 
    {
+    "title": "[Announcement] HSK Token Release (August 2026)",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKTOKENUPDATE.webp",
+    "desc": "To maintain transparency and fairness, we hereby announce the release status of HSK tokens for Aug 2026 ",
+    "link": "20260908/TokenRelease202608"
+},
+   {
     "title": "[Announcement] Official Announcement | HSK Staking Redemption",
     "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKCHAINANNOUCEMENT.webp",
     "desc": "We have observed that during the HSK Staking Season 1 redemption process, the amounts received by some users were not adequately reflected.",
